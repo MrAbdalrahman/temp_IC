@@ -37,7 +37,7 @@ EY||D5G2;|pin@6||U
 X
 
 # Cell nor_1211753;1{lay}
-Cnor_1211753;1{lay}||mocmos|1765758663022|1765849212318||DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1765849213473
+Cnor_1211753;1{lay}||mocmos|1765758663022|1765895942646||DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1765895948983
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-P-Active-Con|contact@3||-15|13.5|85||RRR|
 NMetal-1-P-Active-Con|contact@4||-6|13.5|85||RRR|
@@ -47,8 +47,8 @@ NMetal-1-N-Active-Con|contact@7||-15|-79|5||RRR|
 NMetal-1-N-Active-Con|contact@8||-6|-79|5||RRR|
 NMetal-1-N-Active-Con|contact@9||3|-79|5||RRR|
 NMetal-1-N-Active-Con|contact@10||12|-79|5||RRR|
-NMetal-1-Polysilicon-1-Con|contact@14||7.5|-50.5||||
-NMetal-1-Polysilicon-1-Con|contact@15||-1.5|-50.5||||
+NMetal-1-Polysilicon-1-Con|contact@14||7|-51||||
+NMetal-1-Polysilicon-1-Con|contact@15||-1|-50.5||||
 NMetal-1-Polysilicon-1-Con|contact@16||-10.5|-50||||
 NMetal-1-Polysilicon-1-Con|contact@17||34|-54.5||||
 NN-Transistor|nmos@0||-10.5|-79|7||RRR||SIM_spice_model(D5G1;)SNMOS
@@ -117,14 +117,15 @@ AMetal-1|net@189||1|S0|pin@80||23.5|-62|pin@72||12|-62
 AMetal-1|net@190||1|S900|pin@78||23.5|-41|pin@81||23.5|-54
 AMetal-1|net@191||1|S900|pin@81||23.5|-54|pin@79||23.5|-56.5
 AMetal-1|net@192||1|S0|pin@22||34|-54|pin@81||23.5|-54
-APolysilicon-1|net@196|||S900|pmos@4|poly-right|7.5|-33.5|contact@14||7.5|-51
-APolysilicon-1|net@197|||S900|contact@14||7.5|-51|nmos@2|poly-left|7.5|-72
+APolysilicon-1|net@196|||S900|pmos@4|poly-right|7.5|-33.5|contact@14||7.5|-50.5
+APolysilicon-1|net@197|||S900|contact@14||7.5|-50.5|nmos@2|poly-left|7.5|-72
 APolysilicon-1|net@198|||S900|pmos@3|poly-right|-1|-33.5|pin@82||-1|-50.5
 APolysilicon-1|net@199|||S900|pin@82||-1|-50.5|nmos@1|poly-left|-1|-72
-APolysilicon-1|net@200||3|S1800|contact@15||-1.5|-50.5|pin@82||-1|-50.5
+APolysilicon-1|net@200||3|S1800|contact@15||-1|-50.5|pin@82||-1|-50.5
 APolysilicon-1|net@201|||S900|pmos@2|poly-right|-10.5|-33.5|pin@83||-10.5|-50
 APolysilicon-1|net@202|||S900|pin@83||-10.5|-50|nmos@0|poly-left|-10.5|-72
 APolysilicon-1|net@203||3|S0|contact@16||-10.5|-50|pin@83||-10.5|-50
+APolysilicon-1|net@204|||S|contact@15||-1|-50.5|pin@82||-1|-50.5
 EA||D5G2;|contact@14||U
 EB||D5G2;|contact@15||U
 EV|C|D5G2;|contact@16||U
