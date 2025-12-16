@@ -1,0 +1,1820 @@
+Electric Version 9.08
+--------------- 0 --------------
+  Sun Dec 14 14:21:00 EET 2025
+ProcessKeyBinding 401 when=1765714860518 modifiers=200 code=12 char=ffff false false
+--------------- 1 --------------
+  Sun Dec 14 14:21:01 EET 2025
+ProcessKeyBinding 401 when=1765714861514 modifiers=200 code=12 char=ffff false false
+--------------- 2 --------------
+  Sun Dec 14 14:21:11 EET 2025
+Menu Activated: File | Preferences...
+--------------- 3 --------------
+  Sun Dec 14 14:21:12 EET 2025
+ProcessKeyBinding 401 when=1765714871974 modifiers=200 code=12 char=ffff false false
+--------------- 4 --------------
+  Sun Dec 14 14:21:23 EET 2025
+Menu Activated: File | Preferences...
+--------------- 5 --------------
+  Sun Dec 14 14:21:29 EET 2025
+ProcessKeyBinding 401 when=1765714889576 modifiers=200 code=12 char=ffff false false
+--------------- 6 --------------
+  Sun Dec 14 14:23:48 EET 2025
+Menu Activated: Edit | Undo
+--------------- 7 --------------
+  Sun Dec 14 14:23:53 EET 2025
+Menu Activated: Edit | Undo
+--------------- 8 --------------
+  Sun Dec 14 14:23:56 EET 2025
+Menu Activated: Edit | Move | Move Objects More Left
+--------------- 9 --------------
+  Sun Dec 14 14:23:57 EET 2025
+Menu Activated: Edit | Move | Move Objects More Left
+--------------- 10 --------------
+  Sun Dec 14 14:26:27 EET 2025
+ProcessKeyBinding 401 when=1765715187676 modifiers=200 code=12 char=ffff false false
+--------------- 11 --------------
+  Sun Dec 14 14:26:44 EET 2025
+Menu Activated: File | New Library...
+--------------- 12 --------------
+  Sun Dec 14 14:26:55 EET 2025
+ProcessKeyBinding 401 when=1765715215510 modifiers=200 code=12 char=ffff false false
+--------------- 13 --------------
+  Sun Dec 14 14:27:07 EET 2025
+ProcessKeyBinding 401 when=1765715227007 modifiers=200 code=12 char=ffff false false
+--------------- 14 --------------
+  Sun Dec 14 14:27:08 EET 2025
+ProcessKeyBinding 401 when=1765715228748 modifiers=200 code=12 char=ffff false false
+--------------- 15 --------------
+  Sun Dec 14 14:27:22 EET 2025
+Menu Activated: Cell | New Cell...
+--------------- 16 --------------
+  Sun Dec 14 14:27:56 EET 2025
+ProcessKeyBinding 402 when=1765715276258 modifiers=0 code=a char=a false false
+--------------- 17 --------------
+  Sun Dec 14 14:27:59 EET 2025
+ProcessKeyBinding 401 when=1765715279387 modifiers=200 code=12 char=ffff false false
+--------------- 18 --------------
+  Sun Dec 14 14:28:03 EET 2025
+ProcessKeyBinding 401 when=1765715283867 modifiers=200 code=12 char=ffff false false
+--------------- 19 --------------
+  Sun Dec 14 14:28:03 EET 2025
+ProcessKeyBinding 402 when=1765715283897 modifiers=0 code=12 char=ffff false false
+--------------- 20 --------------
+  Sun Dec 14 14:28:04 EET 2025
+ProcessKeyBinding 401 when=1765715284548 modifiers=200 code=12 char=ffff false false
+--------------- 21 --------------
+  Sun Dec 14 14:28:08 EET 2025
+ProcessKeyBinding 401 when=1765715288708 modifiers=200 code=12 char=ffff false false
+--------------- 22 --------------
+  Sun Dec 14 14:28:18 EET 2025
+ProcessKeyBinding 401 when=1765715298808 modifiers=200 code=12 char=ffff false false
+--------------- 23 --------------
+  Sun Dec 14 14:28:20 EET 2025
+ProcessKeyBinding 401 when=1765715300438 modifiers=200 code=12 char=ffff false false
+--------------- 24 --------------
+  Sun Dec 14 14:28:27 EET 2025
+ProcessKeyBinding 401 when=1765715307778 modifiers=200 code=12 char=ffff false false
+--------------- 25 --------------
+  Sun Dec 14 14:28:34 EET 2025
+ProcessKeyBinding 401 when=1765715314247 modifiers=200 code=12 char=ffff false false
+--------------- 26 --------------
+  Sun Dec 14 14:28:43 EET 2025
+ProcessKeyBinding 401 when=1765715323067 modifiers=80 code=11 char=ffff false false
+--------------- 27 --------------
+  Sun Dec 14 14:28:43 EET 2025
+ProcessKeyBinding 402 when=1765715323148 modifiers=0 code=11 char=ffff false false
+--------------- 28 --------------
+  Sun Dec 14 14:28:43 EET 2025
+ProcessKeyBinding 401 when=1765715323868 modifiers=80 code=11 char=ffff false false
+--------------- 29 --------------
+  Sun Dec 14 14:28:44 EET 2025
+ProcessKeyBinding 402 when=1765715324018 modifiers=0 code=11 char=ffff false false
+--------------- 30 --------------
+  Sun Dec 14 14:28:47 EET 2025
+Menu Activated: Edit | Modes | Edit | Toggle Zoom
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': Off-Page['conn@1']
+--------------- 31 --------------
+  Sun Dec 14 14:28:50 EET 2025
+Menu Activated: Edit | Modes | Edit | Click/Zoom/Wire
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': Off-Page['conn@1']
+--------------- 32 --------------
+  Sun Dec 14 14:28:51 EET 2025
+ProcessKeyBinding 401 when=1765715331207 modifiers=200 code=12 char=ffff false false
+--------------- 33 --------------
+  Sun Dec 14 14:28:53 EET 2025
+ProcessKeyBinding 401 when=1765715333248 modifiers=80 code=11 char=ffff false false
+--------------- 34 --------------
+  Sun Dec 14 14:28:54 EET 2025
+ProcessKeyBinding 402 when=1765715334227 modifiers=0 code=11 char=ffff false false
+--------------- 35 --------------
+  Sun Dec 14 14:28:56 EET 2025
+Menu Activated: Edit | Modes | Edit | Toggle Zoom
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': Off-Page['conn@1']
+--------------- 36 --------------
+  Sun Dec 14 14:28:56 EET 2025
+Menu Activated: Edit | Modes | Edit | Toggle Zoom
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': Off-Page['conn@1']
+--------------- 37 --------------
+  Sun Dec 14 14:28:59 EET 2025
+Menu Activated: Cell | Expand Cell Instances | One Level Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': Off-Page['conn@1']
+--------------- 38 --------------
+  Sun Dec 14 14:29:00 EET 2025
+Menu Activated: Cell | Expand Cell Instances | One Level Down
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': Off-Page['conn@1']
+--------------- 39 --------------
+  Sun Dec 14 14:29:01 EET 2025
+Menu Activated: Edit | Modes | Select | Toggle Special Select
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': Off-Page['conn@1']
+--------------- 40 --------------
+  Sun Dec 14 14:29:02 EET 2025
+Menu Activated: Edit | Modes | Select | Toggle Special Select
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': Off-Page['conn@1']
+--------------- 41 --------------
+  Sun Dec 14 14:29:03 EET 2025
+Menu Activated: Edit | Modes | Select | Toggle Special Select
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': Off-Page['conn@1']
+--------------- 42 --------------
+  Sun Dec 14 14:29:04 EET 2025
+Menu Activated: Edit | Modes | Select | Toggle Special Select
+--------------- 43 --------------
+  Sun Dec 14 14:29:07 EET 2025
+Menu Activated: Edit | Modes | Edit | Toggle Outline Edit
+--------------- 44 --------------
+  Sun Dec 14 14:29:08 EET 2025
+Menu Activated: Edit | Modes | Edit | Toggle Outline Edit
+--------------- 45 --------------
+  Sun Dec 14 14:29:15 EET 2025
+Menu Activated: Edit | Modes | Movement | Make Grid Larger
+--------------- 46 --------------
+  Sun Dec 14 14:29:16 EET 2025
+Menu Activated: Edit | Modes | Movement | Make Grid Larger
+--------------- 47 --------------
+  Sun Dec 14 14:29:16 EET 2025
+Menu Activated: Edit | Modes | Movement | Make Grid Larger
+--------------- 48 --------------
+  Sun Dec 14 14:29:20 EET 2025
+Menu Activated: Edit | Modes | Movement | Make Grid Smaller
+--------------- 49 --------------
+  Sun Dec 14 14:29:21 EET 2025
+Menu Activated: Edit | Modes | Movement | Make Grid Smaller
+--------------- 50 --------------
+  Sun Dec 14 14:29:30 EET 2025
+ProcessKeyBinding 401 when=1765715370127 modifiers=80 code=11 char=ffff false false
+--------------- 51 --------------
+  Sun Dec 14 14:29:31 EET 2025
+ProcessKeyBinding 402 when=1765715371643 modifiers=0 code=11 char=ffff false false
+--------------- 52 --------------
+  Sun Dec 14 14:29:32 EET 2025
+ProcessKeyBinding 401 when=1765715372487 modifiers=80 code=11 char=ffff false false
+--------------- 53 --------------
+  Sun Dec 14 14:29:32 EET 2025
+ProcessKeyBinding 402 when=1765715372909 modifiers=0 code=11 char=ffff false false
+--------------- 54 --------------
+  Sun Dec 14 14:29:34 EET 2025
+ProcessKeyBinding 401 when=1765715374202 modifiers=80 code=11 char=ffff false false
+--------------- 55 --------------
+  Sun Dec 14 14:29:34 EET 2025
+ProcessKeyBinding 402 when=1765715374483 modifiers=0 code=11 char=ffff false false
+--------------- 56 --------------
+  Sun Dec 14 14:29:41 EET 2025
+Menu Activated: Edit | Modes | Select | Toggle Special Select
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(pMOS)[pmos@0].g'
+--------------- 57 --------------
+  Sun Dec 14 14:29:44 EET 2025
+Menu Activated: Edit | Modes | Edit | Toggle Pan
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(pMOS)[pmos@0].g'
+--------------- 58 --------------
+  Sun Dec 14 14:29:46 EET 2025
+Menu Activated: Edit | Modes | Select | Toggle Special Select
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(pMOS)[pmos@0].g'
+--------------- 59 --------------
+  Sun Dec 14 14:29:47 EET 2025
+ProcessKeyBinding 401 when=1765715387591 modifiers=80 code=11 char=ffff false false
+--------------- 60 --------------
+  Sun Dec 14 14:29:49 EET 2025
+ProcessKeyBinding 402 when=1765715389732 modifiers=400 code=11 char=ffff false false
+--------------- 61 --------------
+  Sun Dec 14 14:29:55 EET 2025
+ProcessKeyBinding 401 when=1765715395095 modifiers=80 code=11 char=ffff false false
+--------------- 62 --------------
+  Sun Dec 14 14:29:55 EET 2025
+Menu Activated: Edit | Undo
+--------------- 63 --------------
+  Sun Dec 14 14:29:55 EET 2025
+ProcessKeyBinding 400 when=1765715395426 modifiers=80 code=0 char=1a false false
+--------------- 64 --------------
+  Sun Dec 14 14:29:55 EET 2025
+ProcessKeyBinding 402 when=1765715395706 modifiers=0 code=11 char=ffff false false
+--------------- 65 --------------
+  Sun Dec 14 14:30:13 EET 2025
+ProcessKeyBinding 401 when=1765715413636 modifiers=80 code=11 char=ffff false false
+--------------- 66 --------------
+  Sun Dec 14 14:30:13 EET 2025
+Menu Activated: Edit | Undo
+--------------- 67 --------------
+  Sun Dec 14 14:30:13 EET 2025
+ProcessKeyBinding 400 when=1765715413777 modifiers=80 code=0 char=1a false false
+--------------- 68 --------------
+  Sun Dec 14 14:30:14 EET 2025
+ProcessKeyBinding 402 when=1765715414314 modifiers=0 code=11 char=ffff false false
+--------------- 69 --------------
+  Sun Dec 14 14:30:19 EET 2025
+ProcessKeyBinding 401 when=1765715419437 modifiers=80 code=11 char=ffff false false
+--------------- 70 --------------
+  Sun Dec 14 14:30:19 EET 2025
+ProcessKeyBinding 402 when=1765715419615 modifiers=0 code=11 char=ffff false false
+--------------- 71 --------------
+  Sun Dec 14 14:30:41 EET 2025
+ProcessKeyBinding 401 when=1765715441517 modifiers=200 code=12 char=ffff false false
+--------------- 72 --------------
+  Sun Dec 14 14:31:00 EET 2025
+Menu Activated: Window | Fill Window
+--------------- 73 --------------
+  Sun Dec 14 14:31:00 EET 2025
+ProcessKeyBinding 401 when=1765715460716 modifiers=200 code=12 char=ffff false false
+--------------- 74 --------------
+  Sun Dec 14 14:31:02 EET 2025
+ProcessKeyBinding 401 when=1765715462566 modifiers=80 code=11 char=ffff false false
+--------------- 75 --------------
+  Sun Dec 14 14:31:02 EET 2025
+Menu Activated: Window | Toggle Grid
+--------------- 76 --------------
+  Sun Dec 14 14:31:02 EET 2025
+ProcessKeyBinding 400 when=1765715462895 modifiers=80 code=0 char=7 false false
+--------------- 77 --------------
+  Sun Dec 14 14:31:03 EET 2025
+ProcessKeyBinding 402 when=1765715463215 modifiers=0 code=11 char=ffff false false
+--------------- 78 --------------
+  Sun Dec 14 14:31:03 EET 2025
+ProcessKeyBinding 401 when=1765715463645 modifiers=200 code=12 char=ffff false false
+--------------- 79 --------------
+  Sun Dec 14 14:31:15 EET 2025
+Menu Activated: Window | Color Schemes | Black Background Colors
+--------------- 80 --------------
+  Sun Dec 14 14:31:21 EET 2025
+Menu Activated: Window | Color Schemes | Cadence Colors, Layers and Keystrokes
+--------------- 81 --------------
+  Sun Dec 14 14:31:28 EET 2025
+ProcessKeyBinding 401 when=1765715488507 modifiers=200 code=12 char=ffff false false
+--------------- 82 --------------
+  Sun Dec 14 14:31:29 EET 2025
+ProcessKeyBinding 401 when=1765715489946 modifiers=200 code=12 char=ffff false false
+--------------- 83 --------------
+  Sun Dec 14 14:31:33 EET 2025
+Menu Activated: Window | Fill Window
+--------------- 84 --------------
+  Sun Dec 14 14:31:35 EET 2025
+ProcessKeyBinding 401 when=1765715495085 modifiers=80 code=11 char=ffff false false
+--------------- 85 --------------
+  Sun Dec 14 14:31:35 EET 2025
+Menu Activated: Edit | Undo
+--------------- 86 --------------
+  Sun Dec 14 14:31:35 EET 2025
+Menu Activated: Window | Zoom In
+--------------- 87 --------------
+  Sun Dec 14 14:31:35 EET 2025
+ProcessKeyBinding 400 when=1765715495285 modifiers=80 code=0 char=1a false false
+--------------- 88 --------------
+  Sun Dec 14 14:31:35 EET 2025
+ProcessKeyBinding 402 when=1765715495795 modifiers=0 code=11 char=ffff false false
+--------------- 89 --------------
+  Sun Dec 14 14:31:37 EET 2025
+Menu Activated: Window | Fill Window
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Power[pwr@0].vdd'
+--------------- 90 --------------
+  Sun Dec 14 14:31:41 EET 2025
+ProcessKeyBinding 401 when=1765715501875 modifiers=200 code=12 char=ffff false false
+--------------- 91 --------------
+  Sun Dec 14 14:31:49 EET 2025
+ProcessKeyBinding 401 when=1765715509725 modifiers=200 code=12 char=ffff false false
+--------------- 92 --------------
+  Sun Dec 14 14:31:51 EET 2025
+Menu Activated: Edit | Modes | Movement | Make Grid Smaller
+--------------- 93 --------------
+  Sun Dec 14 14:32:10 EET 2025
+ProcessKeyBinding 401 when=1765715530446 modifiers=200 code=12 char=ffff false false
+--------------- 94 --------------
+  Sun Dec 14 14:32:39 EET 2025
+ProcessKeyBinding 401 when=1765715559276 modifiers=200 code=12 char=ffff false false
+--------------- 95 --------------
+  Sun Dec 14 14:32:43 EET 2025
+ProcessKeyBinding 401 when=1765715563356 modifiers=200 code=12 char=ffff false false
+--------------- 96 --------------
+  Sun Dec 14 14:32:54 EET 2025
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': wire['net@2']
+--------------- 97 --------------
+  Sun Dec 14 14:32:54 EET 2025
+ProcessKeyBinding 400 when=1765715574715 modifiers=0 code=0 char=7f false false
+--------------- 98 --------------
+  Sun Dec 14 14:32:59 EET 2025
+ProcessKeyBinding 401 when=1765715579756 modifiers=200 code=12 char=ffff false false
+--------------- 99 --------------
+  Sun Dec 14 14:33:01 EET 2025
+ProcessKeyBinding 401 when=1765715581577 modifiers=200 code=12 char=ffff false false
+--------------- 100 --------------
+  Sun Dec 14 14:33:05 EET 2025
+ProcessKeyBinding 401 when=1765715585896 modifiers=200 code=12 char=ffff false false
+--------------- 101 --------------
+  Sun Dec 14 14:33:18 EET 2025
+ProcessKeyBinding 402 when=1765715598527 modifiers=0 code=a char=a false false
+--------------- 102 --------------
+  Sun Dec 14 14:33:18 EET 2025
+ProcessKeyBinding 401 when=1765715598884 modifiers=200 code=12 char=ffff false false
+--------------- 103 --------------
+  Sun Dec 14 14:33:31 EET 2025
+ProcessKeyBinding 401 when=1765715611185 modifiers=200 code=12 char=ffff false false
+--------------- 104 --------------
+  Sun Dec 14 14:33:36 EET 2025
+ProcessKeyBinding 401 when=1765715616555 modifiers=200 code=12 char=ffff false false
+--------------- 105 --------------
+  Sun Dec 14 14:33:40 EET 2025
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Off-Page[conn@0].a'
+--------------- 106 --------------
+  Sun Dec 14 14:33:56 EET 2025
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Off-Page[conn@1].y'
+--------------- 107 --------------
+  Sun Dec 14 14:34:03 EET 2025
+ProcessKeyBinding 401 when=1765715643276 modifiers=200 code=12 char=ffff false false
+--------------- 108 --------------
+  Sun Dec 14 14:34:29 EET 2025
+ProcessKeyBinding 401 when=1765715669435 modifiers=200 code=12 char=ffff false false
+--------------- 109 --------------
+  Sun Dec 14 14:34:36 EET 2025
+ProcessKeyBinding 401 when=1765715676925 modifiers=200 code=12 char=ffff false false
+--------------- 110 --------------
+  Sun Dec 14 14:34:39 EET 2025
+ProcessKeyBinding 401 when=1765715679015 modifiers=200 code=12 char=ffff false false
+--------------- 111 --------------
+  Sun Dec 14 14:34:48 EET 2025
+Menu Activated: Tools | Simulation (Spice) | Set Spice Model...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(pMOS)[pmos@0].s'
+--------------- 112 --------------
+  Sun Dec 14 14:34:49 EET 2025
+ProcessKeyBinding 401 when=1765715689964 modifiers=200 code=12 char=ffff false false
+--------------- 113 --------------
+  Sun Dec 14 14:34:54 EET 2025
+ProcessKeyBinding 401 when=1765715694566 modifiers=200 code=12 char=ffff false true
+--------------- 114 --------------
+  Sun Dec 14 14:34:57 EET 2025
+ProcessKeyBinding 401 when=1765715697176 modifiers=40 code=10 char=ffff false true
+--------------- 115 --------------
+  Sun Dec 14 14:34:57 EET 2025
+ProcessKeyBinding 401 when=1765715697415 modifiers=40 code=50 char=50(P) false true
+--------------- 116 --------------
+  Sun Dec 14 14:34:57 EET 2025
+ProcessKeyBinding 402 when=1765715697496 modifiers=40 code=50 char=50(P) false true
+--------------- 117 --------------
+  Sun Dec 14 14:34:57 EET 2025
+ProcessKeyBinding 401 when=1765715697894 modifiers=40 code=4d char=4d(M) false true
+--------------- 118 --------------
+  Sun Dec 14 14:34:58 EET 2025
+ProcessKeyBinding 402 when=1765715698007 modifiers=40 code=4d char=4d(M) false true
+--------------- 119 --------------
+  Sun Dec 14 14:34:58 EET 2025
+ProcessKeyBinding 401 when=1765715698107 modifiers=40 code=4f char=4f(O) false true
+--------------- 120 --------------
+  Sun Dec 14 14:34:58 EET 2025
+ProcessKeyBinding 401 when=1765715698196 modifiers=40 code=53 char=53(S) false true
+--------------- 121 --------------
+  Sun Dec 14 14:34:58 EET 2025
+ProcessKeyBinding 402 when=1765715698215 modifiers=40 code=4f char=4f(O) false true
+--------------- 122 --------------
+  Sun Dec 14 14:34:58 EET 2025
+ProcessKeyBinding 402 when=1765715698245 modifiers=40 code=53 char=53(S) false true
+--------------- 123 --------------
+  Sun Dec 14 14:34:58 EET 2025
+ProcessKeyBinding 402 when=1765715698656 modifiers=0 code=10 char=ffff false true
+--------------- 124 --------------
+  Sun Dec 14 14:34:58 EET 2025
+ProcessKeyBinding 402 when=1765715698907 modifiers=0 code=a char=a false false
+--------------- 125 --------------
+  Sun Dec 14 14:35:08 EET 2025
+Menu Activated: Tools | Simulation (Spice) | Set Spice Model...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(nMOS)[nmos@0].s'
+--------------- 126 --------------
+  Sun Dec 14 14:35:10 EET 2025
+ProcessKeyBinding 402 when=1765715710665 modifiers=0 code=8 char=8 false true
+--------------- 127 --------------
+  Sun Dec 14 14:35:10 EET 2025
+ProcessKeyBinding 401 when=1765715710936 modifiers=40 code=10 char=ffff false true
+--------------- 128 --------------
+  Sun Dec 14 14:35:11 EET 2025
+ProcessKeyBinding 401 when=1765715711465 modifiers=40 code=4e char=4e(N) false true
+--------------- 129 --------------
+  Sun Dec 14 14:35:11 EET 2025
+ProcessKeyBinding 402 when=1765715711525 modifiers=40 code=4e char=4e(N) false true
+--------------- 130 --------------
+  Sun Dec 14 14:35:11 EET 2025
+ProcessKeyBinding 401 when=1765715711535 modifiers=40 code=4d char=4d(M) false true
+--------------- 131 --------------
+  Sun Dec 14 14:35:11 EET 2025
+ProcessKeyBinding 402 when=1765715711625 modifiers=40 code=4d char=4d(M) false true
+--------------- 132 --------------
+  Sun Dec 14 14:35:11 EET 2025
+ProcessKeyBinding 401 when=1765715711767 modifiers=40 code=4f char=4f(O) false true
+--------------- 133 --------------
+  Sun Dec 14 14:35:11 EET 2025
+ProcessKeyBinding 402 when=1765715711827 modifiers=40 code=4f char=4f(O) false true
+--------------- 134 --------------
+  Sun Dec 14 14:35:11 EET 2025
+ProcessKeyBinding 401 when=1765715711874 modifiers=40 code=53 char=53(S) false true
+--------------- 135 --------------
+  Sun Dec 14 14:35:11 EET 2025
+ProcessKeyBinding 402 when=1765715711936 modifiers=40 code=53 char=53(S) false true
+--------------- 136 --------------
+  Sun Dec 14 14:35:12 EET 2025
+ProcessKeyBinding 402 when=1765715712105 modifiers=0 code=10 char=ffff false true
+--------------- 137 --------------
+  Sun Dec 14 14:35:12 EET 2025
+ProcessKeyBinding 402 when=1765715712986 modifiers=0 code=a char=a false false
+--------------- 138 --------------
+  Sun Dec 14 14:35:13 EET 2025
+ProcessKeyBinding 401 when=1765715713486 modifiers=200 code=12 char=ffff false false
+--------------- 139 --------------
+  Sun Dec 14 14:35:20 EET 2025
+ProcessKeyBinding 401 when=1765715720255 modifiers=200 code=12 char=ffff false false
+--------------- 140 --------------
+  Sun Dec 14 14:35:25 EET 2025
+ProcessKeyBinding 401 when=1765715725855 modifiers=80 code=11 char=ffff false false
+--------------- 141 --------------
+  Sun Dec 14 14:35:26 EET 2025
+ProcessKeyBinding 402 when=1765715726225 modifiers=0 code=11 char=ffff false false
+--------------- 142 --------------
+  Sun Dec 14 14:35:27 EET 2025
+ProcessKeyBinding 401 when=1765715727806 modifiers=200 code=12 char=ffff false false
+--------------- 143 --------------
+  Sun Dec 14 14:35:29 EET 2025
+ProcessKeyBinding 401 when=1765715729226 modifiers=80 code=11 char=ffff false false
+--------------- 144 --------------
+  Sun Dec 14 14:35:32 EET 2025
+ProcessKeyBinding 402 when=1765715732535 modifiers=0 code=11 char=ffff false false
+--------------- 145 --------------
+  Sun Dec 14 14:35:34 EET 2025
+ProcessKeyBinding 401 when=1765715734407 modifiers=200 code=12 char=ffff false false
+--------------- 146 --------------
+  Sun Dec 14 14:35:38 EET 2025
+ProcessKeyBinding 401 when=1765715738117 modifiers=80 code=11 char=ffff false false
+--------------- 147 --------------
+  Sun Dec 14 14:35:38 EET 2025
+ProcessKeyBinding 402 when=1765715738675 modifiers=0 code=11 char=ffff false false
+--------------- 148 --------------
+  Sun Dec 14 14:35:39 EET 2025
+ProcessKeyBinding 401 when=1765715739267 modifiers=80 code=11 char=ffff false false
+--------------- 149 --------------
+  Sun Dec 14 14:35:40 EET 2025
+ProcessKeyBinding 402 when=1765715740315 modifiers=0 code=11 char=ffff false false
+--------------- 150 --------------
+  Sun Dec 14 14:35:40 EET 2025
+ProcessKeyBinding 401 when=1765715740497 modifiers=200 code=12 char=ffff false false
+--------------- 151 --------------
+  Sun Dec 14 14:35:51 EET 2025
+ProcessKeyBinding 401 when=1765715751396 modifiers=80 code=11 char=ffff false false
+--------------- 152 --------------
+  Sun Dec 14 14:35:52 EET 2025
+ProcessKeyBinding 402 when=1765715752496 modifiers=0 code=11 char=ffff false false
+--------------- 153 --------------
+  Sun Dec 14 14:35:52 EET 2025
+ProcessKeyBinding 401 when=1765715752707 modifiers=80 code=11 char=ffff false false
+--------------- 154 --------------
+  Sun Dec 14 14:35:54 EET 2025
+ProcessKeyBinding 402 when=1765715754287 modifiers=0 code=11 char=ffff false false
+--------------- 155 --------------
+  Sun Dec 14 14:35:56 EET 2025
+ProcessKeyBinding 401 when=1765715756555 modifiers=80 code=11 char=ffff false false
+--------------- 156 --------------
+  Sun Dec 14 14:35:58 EET 2025
+ProcessKeyBinding 402 when=1765715758736 modifiers=0 code=11 char=ffff false false
+--------------- 157 --------------
+  Sun Dec 14 14:35:59 EET 2025
+ProcessKeyBinding 401 when=1765715759155 modifiers=80 code=11 char=ffff false false
+--------------- 158 --------------
+  Sun Dec 14 14:36:02 EET 2025
+ProcessKeyBinding 402 when=1765715762985 modifiers=400 code=11 char=ffff false false
+--------------- 159 --------------
+  Sun Dec 14 14:36:03 EET 2025
+ProcessKeyBinding 401 when=1765715763306 modifiers=80 code=11 char=ffff false false
+--------------- 160 --------------
+  Sun Dec 14 14:36:04 EET 2025
+ProcessKeyBinding 402 when=1765715764356 modifiers=0 code=11 char=ffff false false
+--------------- 161 --------------
+  Sun Dec 14 14:36:08 EET 2025
+ProcessKeyBinding 401 when=1765715768044 modifiers=80 code=11 char=ffff false false
+--------------- 162 --------------
+  Sun Dec 14 14:36:09 EET 2025
+ProcessKeyBinding 402 when=1765715769125 modifiers=0 code=11 char=ffff false false
+--------------- 163 --------------
+  Sun Dec 14 14:36:09 EET 2025
+ProcessKeyBinding 401 when=1765715769316 modifiers=80 code=11 char=ffff false false
+--------------- 164 --------------
+  Sun Dec 14 14:36:09 EET 2025
+ProcessKeyBinding 402 when=1765715769615 modifiers=0 code=11 char=ffff false false
+--------------- 165 --------------
+  Sun Dec 14 14:36:09 EET 2025
+ProcessKeyBinding 401 when=1765715769775 modifiers=200 code=12 char=ffff false false
+--------------- 166 --------------
+  Sun Dec 14 14:38:01 EET 2025
+ProcessKeyBinding 401 when=1765715881789 modifiers=200 code=12 char=ffff false false
+--------------- 167 --------------
+  Sun Dec 14 14:38:56 EET 2025
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE code
+--------------- 168 --------------
+  Sun Dec 14 14:39:04 EET 2025
+ProcessKeyBinding 401 when=1765715944138 modifiers=200 code=12 char=ffff false true
+--------------- 169 --------------
+  Sun Dec 14 14:44:14 EET 2025
+ProcessKeyBinding 401 when=1765716254712 modifiers=80 code=11 char=ffff false true
+--------------- 170 --------------
+  Sun Dec 14 14:44:14 EET 2025
+ProcessKeyBinding 402 when=1765716254959 modifiers=0 code=11 char=ffff false true
+--------------- 171 --------------
+  Sun Dec 14 14:44:16 EET 2025
+ProcessKeyBinding 401 when=1765716256520 modifiers=80 code=11 char=ffff false true
+--------------- 172 --------------
+  Sun Dec 14 14:44:17 EET 2025
+ProcessKeyBinding 402 when=1765716257075 modifiers=0 code=11 char=ffff false true
+--------------- 173 --------------
+  Sun Dec 14 14:44:17 EET 2025
+ProcessKeyBinding 401 when=1765716257192 modifiers=80 code=11 char=ffff false true
+--------------- 174 --------------
+  Sun Dec 14 14:44:17 EET 2025
+ProcessKeyBinding 402 when=1765716257624 modifiers=0 code=11 char=ffff false true
+--------------- 175 --------------
+  Sun Dec 14 14:44:18 EET 2025
+ProcessKeyBinding 401 when=1765716258279 modifiers=80 code=11 char=ffff false false
+--------------- 176 --------------
+  Sun Dec 14 14:44:19 EET 2025
+ProcessKeyBinding 402 when=1765716259044 modifiers=0 code=11 char=ffff false false
+--------------- 177 --------------
+  Sun Dec 14 14:44:23 EET 2025
+ProcessKeyBinding 401 when=1765716263129 modifiers=80 code=11 char=ffff false false
+--------------- 178 --------------
+  Sun Dec 14 14:44:23 EET 2025
+ProcessKeyBinding 402 when=1765716263832 modifiers=0 code=11 char=ffff false false
+--------------- 179 --------------
+  Sun Dec 14 14:44:32 EET 2025
+ProcessKeyBinding 401 when=1765716272710 modifiers=80 code=11 char=ffff false false
+--------------- 180 --------------
+  Sun Dec 14 14:44:32 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    Attribute 'length' on node Transistor(pMOS)['pmos@0']
+--------------- 181 --------------
+  Sun Dec 14 14:44:32 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    Attribute 'length' on node Transistor(pMOS)['pmos@0']
+--------------- 182 --------------
+  Sun Dec 14 14:44:32 EET 2025
+ProcessKeyBinding 400 when=1765716272833 modifiers=80 code=0 char=1a false false
+--------------- 183 --------------
+  Sun Dec 14 14:44:33 EET 2025
+ProcessKeyBinding 402 when=1765716273112 modifiers=0 code=11 char=ffff false false
+--------------- 184 --------------
+  Sun Dec 14 14:44:37 EET 2025
+ProcessKeyBinding 401 when=1765716277349 modifiers=80 code=11 char=ffff false false
+--------------- 185 --------------
+  Sun Dec 14 14:44:38 EET 2025
+ProcessKeyBinding 402 when=1765716278300 modifiers=0 code=11 char=ffff false false
+--------------- 186 --------------
+  Sun Dec 14 14:44:38 EET 2025
+ProcessKeyBinding 401 when=1765716278818 modifiers=80 code=11 char=ffff false false
+--------------- 187 --------------
+  Sun Dec 14 14:44:39 EET 2025
+ProcessKeyBinding 402 when=1765716279204 modifiers=0 code=11 char=ffff false false
+--------------- 188 --------------
+  Sun Dec 14 14:44:42 EET 2025
+ProcessKeyBinding 401 when=1765716282790 modifiers=80 code=11 char=ffff false false
+--------------- 189 --------------
+  Sun Dec 14 14:44:43 EET 2025
+ProcessKeyBinding 402 when=1765716283270 modifiers=0 code=11 char=ffff false false
+--------------- 190 --------------
+  Sun Dec 14 14:44:55 EET 2025
+ProcessKeyBinding 401 when=1765716295224 modifiers=200 code=12 char=ffff false false
+--------------- 191 --------------
+  Sun Dec 14 14:44:58 EET 2025
+ProcessKeyBinding 401 when=1765716298873 modifiers=200 code=12 char=ffff false false
+--------------- 192 --------------
+  Sun Dec 14 14:47:32 EET 2025
+ProcessKeyBinding 401 when=1765716452739 modifiers=200 code=12 char=ffff false false
+--------------- 193 --------------
+  Sun Dec 14 14:47:35 EET 2025
+Menu Activated: Edit | Undo
+--------------- 194 --------------
+  Sun Dec 14 14:47:35 EET 2025
+Menu Activated: Window | Zoom In
+--------------- 195 --------------
+  Sun Dec 14 14:47:38 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    SPICE model on node Transistor(pMOS)['pmos@0']
+--------------- 196 --------------
+  Sun Dec 14 14:47:38 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    SPICE model on node Transistor(pMOS)['pmos@0']
+--------------- 197 --------------
+  Sun Dec 14 14:47:39 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    SPICE model on node Transistor(pMOS)['pmos@0']
+--------------- 198 --------------
+  Sun Dec 14 14:47:39 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    SPICE model on node Transistor(pMOS)['pmos@0']
+--------------- 199 --------------
+  Sun Dec 14 14:47:41 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    SPICE model on node Transistor(nMOS)['nmos@0']
+--------------- 200 --------------
+  Sun Dec 14 14:47:41 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    SPICE model on node Transistor(nMOS)['nmos@0']
+--------------- 201 --------------
+  Sun Dec 14 14:47:41 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    SPICE model on node Transistor(nMOS)['nmos@0']
+--------------- 202 --------------
+  Sun Dec 14 14:47:41 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    SPICE model on node Transistor(nMOS)['nmos@0']
+--------------- 203 --------------
+  Sun Dec 14 14:47:43 EET 2025
+Menu Activated: Edit | Undo
+--------------- 204 --------------
+  Sun Dec 14 14:47:43 EET 2025
+Menu Activated: Window | Zoom In
+--------------- 205 --------------
+  Sun Dec 14 14:47:43 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    SPICE model on node Transistor(nMOS)['nmos@0']
+--------------- 206 --------------
+  Sun Dec 14 14:47:43 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    SPICE model on node Transistor(nMOS)['nmos@0']
+--------------- 207 --------------
+  Sun Dec 14 14:47:43 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(nMOS)[nmos@0].s'
+--------------- 208 --------------
+  Sun Dec 14 14:47:43 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(nMOS)[nmos@0].s'
+--------------- 209 --------------
+  Sun Dec 14 14:47:44 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    SPICE model on node Transistor(pMOS)['pmos@0']
+--------------- 210 --------------
+  Sun Dec 14 14:47:44 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    SPICE model on node Transistor(pMOS)['pmos@0']
+--------------- 211 --------------
+  Sun Dec 14 14:47:44 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(pMOS)[pmos@0].s'
+--------------- 212 --------------
+  Sun Dec 14 14:47:44 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(pMOS)[pmos@0].s'
+--------------- 213 --------------
+  Sun Dec 14 14:47:44 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Off-Page[conn@1].y'
+--------------- 214 --------------
+  Sun Dec 14 14:47:44 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Off-Page[conn@1].y'
+--------------- 215 --------------
+  Sun Dec 14 14:47:45 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Off-Page[conn@0].a'
+--------------- 216 --------------
+  Sun Dec 14 14:47:45 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Off-Page[conn@0].a'
+--------------- 217 --------------
+  Sun Dec 14 14:47:45 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(nMOS)[nmos@0].d'
+--------------- 218 --------------
+  Sun Dec 14 14:47:45 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(nMOS)[nmos@0].d'
+--------------- 219 --------------
+  Sun Dec 14 14:47:45 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(pMOS)[pmos@0].d'
+--------------- 220 --------------
+  Sun Dec 14 14:47:45 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(pMOS)[pmos@0].d'
+--------------- 221 --------------
+  Sun Dec 14 14:47:46 EET 2025
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Ground[gnd@0].gnd'
+--------------- 222 --------------
+  Sun Dec 14 14:47:46 EET 2025
+Menu Activated: Window | Zoom In
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Ground[gnd@0].gnd'
+--------------- 223 --------------
+  Sun Dec 14 14:47:57 EET 2025
+Menu Activated: Window | Fill Window
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Power[pwr@0].vdd'
+--------------- 224 --------------
+  Sun Dec 14 14:48:01 EET 2025
+ProcessKeyBinding 401 when=1765716481250 modifiers=200 code=12 char=ffff false false
+--------------- 225 --------------
+  Sun Dec 14 14:48:17 EET 2025
+ProcessKeyBinding 401 when=1765716497401 modifiers=80 code=11 char=ffff false false
+--------------- 226 --------------
+  Sun Dec 14 14:48:18 EET 2025
+Menu Activated: Edit | Redo
+--------------- 227 --------------
+  Sun Dec 14 14:48:18 EET 2025
+ProcessKeyBinding 400 when=1765716498707 modifiers=80 code=0 char=19 false false
+--------------- 228 --------------
+  Sun Dec 14 14:48:20 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Ground[gnd@0].gnd'
+--------------- 229 --------------
+  Sun Dec 14 14:48:20 EET 2025
+ProcessKeyBinding 400 when=1765716500183 modifiers=80 code=0 char=19 false false
+--------------- 230 --------------
+  Sun Dec 14 14:48:20 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(pMOS)[pmos@0].d'
+--------------- 231 --------------
+  Sun Dec 14 14:48:20 EET 2025
+ProcessKeyBinding 400 when=1765716500554 modifiers=80 code=0 char=19 false false
+--------------- 232 --------------
+  Sun Dec 14 14:48:20 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(nMOS)[nmos@0].d'
+--------------- 233 --------------
+  Sun Dec 14 14:48:20 EET 2025
+ProcessKeyBinding 400 when=1765716500939 modifiers=80 code=0 char=19 false false
+--------------- 234 --------------
+  Sun Dec 14 14:48:21 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Off-Page[conn@0].a'
+--------------- 235 --------------
+  Sun Dec 14 14:48:21 EET 2025
+ProcessKeyBinding 400 when=1765716501241 modifiers=80 code=0 char=19 false false
+--------------- 236 --------------
+  Sun Dec 14 14:48:21 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Off-Page[conn@1].y'
+--------------- 237 --------------
+  Sun Dec 14 14:48:21 EET 2025
+ProcessKeyBinding 400 when=1765716501535 modifiers=80 code=0 char=19 false false
+--------------- 238 --------------
+  Sun Dec 14 14:48:22 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(pMOS)[pmos@0].s'
+--------------- 239 --------------
+  Sun Dec 14 14:48:22 EET 2025
+ProcessKeyBinding 400 when=1765716502011 modifiers=80 code=0 char=19 false false
+--------------- 240 --------------
+  Sun Dec 14 14:48:22 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    SPICE model on node Transistor(pMOS)['pmos@0']
+--------------- 241 --------------
+  Sun Dec 14 14:48:22 EET 2025
+ProcessKeyBinding 400 when=1765716502408 modifiers=80 code=0 char=19 false false
+--------------- 242 --------------
+  Sun Dec 14 14:48:22 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'invertor_schem{sch}': 'Transistor(nMOS)[nmos@0].s'
+--------------- 243 --------------
+  Sun Dec 14 14:48:22 EET 2025
+ProcessKeyBinding 400 when=1765716502994 modifiers=80 code=0 char=19 false false
+--------------- 244 --------------
+  Sun Dec 14 14:48:23 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    SPICE model on node Transistor(nMOS)['nmos@0']
+--------------- 245 --------------
+  Sun Dec 14 14:48:23 EET 2025
+ProcessKeyBinding 400 when=1765716503380 modifiers=80 code=0 char=19 false false
+--------------- 246 --------------
+  Sun Dec 14 14:48:24 EET 2025
+Menu Activated: Edit | Redo
+--------------- 247 --------------
+  Sun Dec 14 14:48:24 EET 2025
+ProcessKeyBinding 400 when=1765716504068 modifiers=80 code=0 char=19 false false
+--------------- 248 --------------
+  Sun Dec 14 14:48:24 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    SPICE model on node Transistor(nMOS)['nmos@0']
+--------------- 249 --------------
+  Sun Dec 14 14:48:24 EET 2025
+ProcessKeyBinding 400 when=1765716504401 modifiers=80 code=0 char=19 false false
+--------------- 250 --------------
+  Sun Dec 14 14:48:24 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    SPICE model on node Transistor(nMOS)['nmos@0']
+--------------- 251 --------------
+  Sun Dec 14 14:48:24 EET 2025
+ProcessKeyBinding 400 when=1765716504888 modifiers=80 code=0 char=19 false false
+--------------- 252 --------------
+  Sun Dec 14 14:48:25 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    SPICE model on node Transistor(pMOS)['pmos@0']
+--------------- 253 --------------
+  Sun Dec 14 14:48:25 EET 2025
+ProcessKeyBinding 400 when=1765716505251 modifiers=80 code=0 char=19 false false
+--------------- 254 --------------
+  Sun Dec 14 14:48:26 EET 2025
+Menu Activated: Edit | Redo
+Currently highlighted: 
+    SPICE model on node Transistor(pMOS)['pmos@0']
+--------------- 255 --------------
+  Sun Dec 14 14:48:26 EET 2025
+ProcessKeyBinding 400 when=1765716506664 modifiers=80 code=0 char=19 false false
+--------------- 256 --------------
+  Sun Dec 14 14:48:27 EET 2025
+Menu Activated: Edit | Redo
+--------------- 257 --------------
+  Sun Dec 14 14:48:27 EET 2025
+ProcessKeyBinding 400 when=1765716507183 modifiers=80 code=0 char=19 false false
+--------------- 258 --------------
+  Sun Dec 14 14:48:28 EET 2025
+Menu Activated: Edit | Redo
+--------------- 259 --------------
+  Sun Dec 14 14:48:28 EET 2025
+ProcessKeyBinding 400 when=1765716508334 modifiers=80 code=0 char=19 false false
+--------------- 260 --------------
+  Sun Dec 14 14:48:29 EET 2025
+ProcessKeyBinding 402 when=1765716509006 modifiers=0 code=11 char=ffff false false
+--------------- 261 --------------
+  Sun Dec 14 14:48:33 EET 2025
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE code
+--------------- 262 --------------
+  Sun Dec 14 14:48:58 EET 2025
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE code
+--------------- 263 --------------
+  Sun Dec 14 14:59:17 EET 2025
+ProcessKeyBinding 401 when=1765717157213 modifiers=200 code=12 char=ffff false true
+--------------- 264 --------------
+  Sun Dec 14 14:59:17 EET 2025
+ProcessKeyBinding 401 when=1765717157868 modifiers=200 code=12 char=ffff false true
+--------------- 265 --------------
+  Sun Dec 14 14:59:21 EET 2025
+ProcessKeyBinding 401 when=1765717161942 modifiers=200 code=12 char=ffff false true
+--------------- 266 --------------
+  Sun Dec 14 14:59:25 EET 2025
+ProcessKeyBinding 401 when=1765717165392 modifiers=200 code=12 char=ffff false true
+--------------- 267 --------------
+  Sun Dec 14 14:59:33 EET 2025
+Menu Activated: Window | Fill Window
+--------------- 268 --------------
+  Sun Dec 14 14:59:34 EET 2025
+ProcessKeyBinding 401 when=1765717174460 modifiers=200 code=12 char=ffff false false
+--------------- 269 --------------
+  Sun Dec 14 14:59:36 EET 2025
+ProcessKeyBinding 401 when=1765717176181 modifiers=200 code=12 char=ffff false false
+--------------- 270 --------------
+  Sun Dec 14 14:59:38 EET 2025
+ProcessKeyBinding 401 when=1765717178902 modifiers=80 code=11 char=ffff false false
+--------------- 271 --------------
+  Sun Dec 14 14:59:39 EET 2025
+ProcessKeyBinding 402 when=1765717179432 modifiers=0 code=11 char=ffff false false
+--------------- 272 --------------
+  Sun Dec 14 14:59:40 EET 2025
+ProcessKeyBinding 401 when=1765717180041 modifiers=80 code=11 char=ffff false false
+--------------- 273 --------------
+  Sun Dec 14 14:59:40 EET 2025
+ProcessKeyBinding 402 when=1765717180871 modifiers=0 code=11 char=ffff false false
+--------------- 274 --------------
+  Sun Dec 14 14:59:42 EET 2025
+ProcessKeyBinding 401 when=1765717182380 modifiers=200 code=12 char=ffff false false
+--------------- 275 --------------
+  Sun Dec 14 14:59:47 EET 2025
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+--------------- 276 --------------
+  Sun Dec 14 15:00:07 EET 2025
+ProcessKeyBinding 401 when=1765717207181 modifiers=200 code=12 char=ffff false false
+--------------- 277 --------------
+  Sun Dec 14 15:00:10 EET 2025
+ProcessKeyBinding 401 when=1765717210843 modifiers=200 code=12 char=ffff false false
+--------------- 278 --------------
+  Sun Dec 14 15:00:21 EET 2025
+ProcessKeyBinding 401 when=1765717221932 modifiers=200 code=12 char=ffff false false
+--------------- 279 --------------
+  Sun Dec 14 15:02:37 EET 2025
+Menu Activated: Tools | Simulation (Spice) | Write CDL Deck...
+--------------- 280 --------------
+  Sun Dec 14 15:02:43 EET 2025
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+--------------- 281 --------------
+  Sun Dec 14 15:05:47 EET 2025
+Menu Activated: File | Preferences...
+--------------- 282 --------------
+  Sun Dec 14 15:06:11 EET 2025
+ProcessKeyBinding 401 when=1765717571905 modifiers=200 code=12 char=ffff false false
+--------------- 283 --------------
+  Sun Dec 14 15:08:15 EET 2025
+ProcessKeyBinding 401 when=1765717695235 modifiers=200 code=12 char=ffff false false
+--------------- 284 --------------
+  Sun Dec 14 15:12:45 EET 2025
+Menu Activated: File | Preferences...
+--------------- 285 --------------
+  Sun Dec 14 15:12:53 EET 2025
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+--------------- 286 --------------
+  Sun Dec 14 15:13:02 EET 2025
+ProcessKeyBinding 401 when=1765717982406 modifiers=0 code=41 char=61(a) false false
+--------------- 287 --------------
+  Sun Dec 14 15:13:02 EET 2025
+ProcessKeyBinding 402 when=1765717982507 modifiers=0 code=41 char=61(a) false false
+--------------- 288 --------------
+  Sun Dec 14 15:13:02 EET 2025
+ProcessKeyBinding 401 when=1765717982569 modifiers=0 code=4e char=6e(n) false false
+--------------- 289 --------------
+  Sun Dec 14 15:13:02 EET 2025
+ProcessKeyBinding 401 when=1765717982639 modifiers=0 code=44 char=64(d) false false
+--------------- 290 --------------
+  Sun Dec 14 15:13:02 EET 2025
+ProcessKeyBinding 402 when=1765717982654 modifiers=0 code=4e char=6e(n) false false
+--------------- 291 --------------
+  Sun Dec 14 15:13:02 EET 2025
+ProcessKeyBinding 402 when=1765717982708 modifiers=0 code=44 char=64(d) false false
+--------------- 292 --------------
+  Sun Dec 14 15:13:03 EET 2025
+ProcessKeyBinding 402 when=1765717983326 modifiers=0 code=a char=a false false
+--------------- 293 --------------
+  Sun Dec 14 15:13:05 EET 2025
+ProcessKeyBinding 402 when=1765717985482 modifiers=0 code=27 char=ffff false false
+--------------- 294 --------------
+  Sun Dec 14 15:13:06 EET 2025
+ProcessKeyBinding 402 when=1765717986802 modifiers=0 code=27 char=ffff false false
+--------------- 295 --------------
+  Sun Dec 14 15:13:07 EET 2025
+ProcessKeyBinding 401 when=1765717987822 modifiers=40 code=10 char=ffff false false
+--------------- 296 --------------
+  Sun Dec 14 15:13:08 EET 2025
+ProcessKeyBinding 401 when=1765717988107 modifiers=40 code=2e char=3e(>) false false
+--------------- 297 --------------
+  Sun Dec 14 15:13:08 EET 2025
+ProcessKeyBinding 402 when=1765717988207 modifiers=40 code=2e char=3e(>) false false
+--------------- 298 --------------
+  Sun Dec 14 15:13:08 EET 2025
+ProcessKeyBinding 402 when=1765717988261 modifiers=0 code=10 char=ffff false false
+--------------- 299 --------------
+  Sun Dec 14 15:13:08 EET 2025
+ProcessKeyBinding 402 when=1765717988477 modifiers=0 code=a char=a false false
+--------------- 300 --------------
+  Sun Dec 14 15:13:09 EET 2025
+ProcessKeyBinding 401 when=1765717989713 modifiers=40 code=10 char=ffff false false
+--------------- 301 --------------
+  Sun Dec 14 15:13:09 EET 2025
+ProcessKeyBinding 401 when=1765717989999 modifiers=40 code=2c char=3c(<) false false
+--------------- 302 --------------
+  Sun Dec 14 15:13:10 EET 2025
+ProcessKeyBinding 402 when=1765717990084 modifiers=40 code=2c char=3c(<) false false
+--------------- 303 --------------
+  Sun Dec 14 15:13:10 EET 2025
+ProcessKeyBinding 402 when=1765717990168 modifiers=0 code=10 char=ffff false false
+--------------- 304 --------------
+  Sun Dec 14 15:13:10 EET 2025
+ProcessKeyBinding 402 when=1765717990369 modifiers=0 code=a char=a false false
+--------------- 305 --------------
+  Sun Dec 14 15:13:11 EET 2025
+ProcessKeyBinding 401 when=1765717991157 modifiers=40 code=10 char=ffff false false
+--------------- 306 --------------
+  Sun Dec 14 15:13:11 EET 2025
+ProcessKeyBinding 401 when=1765717991442 modifiers=40 code=2c char=3c(<) false false
+--------------- 307 --------------
+  Sun Dec 14 15:13:11 EET 2025
+ProcessKeyBinding 402 when=1765717991536 modifiers=40 code=2c char=3c(<) false false
+--------------- 308 --------------
+  Sun Dec 14 15:13:11 EET 2025
+ProcessKeyBinding 402 when=1765717991589 modifiers=0 code=10 char=ffff false false
+--------------- 309 --------------
+  Sun Dec 14 15:13:11 EET 2025
+ProcessKeyBinding 402 when=1765717991790 modifiers=0 code=a char=a false false
+--------------- 310 --------------
+  Sun Dec 14 15:13:12 EET 2025
+ProcessKeyBinding 402 when=1765717992077 modifiers=0 code=25 char=ffff false false
+--------------- 311 --------------
+  Sun Dec 14 15:13:12 EET 2025
+ProcessKeyBinding 402 when=1765717992262 modifiers=0 code=25 char=ffff false false
+--------------- 312 --------------
+  Sun Dec 14 15:13:12 EET 2025
+ProcessKeyBinding 402 when=1765717992579 modifiers=0 code=25 char=ffff false false
+--------------- 313 --------------
+  Sun Dec 14 15:13:13 EET 2025
+ProcessKeyBinding 402 when=1765717993467 modifiers=0 code=25 char=ffff false false
+--------------- 314 --------------
+  Sun Dec 14 15:13:39 EET 2025
+ProcessKeyBinding 401 when=1765718019304 modifiers=200 code=12 char=ffff false false
+--------------- 315 --------------
+  Sun Dec 14 15:13:40 EET 2025
+ProcessKeyBinding 401 when=1765718020641 modifiers=200 code=12 char=ffff false false
+--------------- 316 --------------
+  Sun Dec 14 15:13:46 EET 2025
+ProcessKeyBinding 401 when=1765718026161 modifiers=200 code=12 char=ffff false false
+--------------- 317 --------------
+  Sun Dec 14 15:13:50 EET 2025
+ProcessKeyBinding 401 when=1765718030329 modifiers=200 code=12 char=ffff false true
+--------------- 318 --------------
+  Sun Dec 14 15:13:54 EET 2025
+ProcessKeyBinding 402 when=1765718034411 modifiers=0 code=25 char=ffff false true
+--------------- 319 --------------
+  Sun Dec 14 15:13:54 EET 2025
+ProcessKeyBinding 401 when=1765718034411 modifiers=80 code=11 char=ffff false true
+--------------- 320 --------------
+  Sun Dec 14 15:13:54 EET 2025
+Menu Activated: Edit | Move | Move Objects More Left
+Currently highlighted: 
+    SPICE code
+--------------- 321 --------------
+  Sun Dec 14 15:13:54 EET 2025
+Menu Activated: Edit | Move | Move Objects More Left
+Currently highlighted: 
+    SPICE code
+--------------- 322 --------------
+  Sun Dec 14 15:13:54 EET 2025
+Menu Activated: Edit | Move | Move Objects More Left
+Currently highlighted: 
+    SPICE code
+--------------- 323 --------------
+  Sun Dec 14 15:13:55 EET 2025
+ProcessKeyBinding 402 when=1765718035510 modifiers=0 code=11 char=ffff false true
+--------------- 324 --------------
+  Sun Dec 14 15:13:56 EET 2025
+ProcessKeyBinding 402 when=1765718036345 modifiers=0 code=25 char=ffff false true
+--------------- 325 --------------
+  Sun Dec 14 15:13:56 EET 2025
+ProcessKeyBinding 402 when=1765718036646 modifiers=0 code=25 char=ffff false true
+--------------- 326 --------------
+  Sun Dec 14 15:13:56 EET 2025
+ProcessKeyBinding 402 when=1765718036793 modifiers=0 code=25 char=ffff false true
+--------------- 327 --------------
+  Sun Dec 14 15:13:57 EET 2025
+ProcessKeyBinding 402 when=1765718037766 modifiers=0 code=25 char=ffff false true
+--------------- 328 --------------
+  Sun Dec 14 15:13:58 EET 2025
+ProcessKeyBinding 402 when=1765718038021 modifiers=0 code=27 char=ffff false true
+--------------- 329 --------------
+  Sun Dec 14 15:13:58 EET 2025
+ProcessKeyBinding 401 when=1765718038925 modifiers=80 code=11 char=ffff false true
+--------------- 330 --------------
+  Sun Dec 14 15:13:58 EET 2025
+ProcessKeyBinding 402 when=1765718038988 modifiers=80 code=25 char=ffff false true
+--------------- 331 --------------
+  Sun Dec 14 15:13:59 EET 2025
+ProcessKeyBinding 402 when=1765718039126 modifiers=0 code=11 char=ffff false true
+--------------- 332 --------------
+  Sun Dec 14 15:13:59 EET 2025
+ProcessKeyBinding 402 when=1765718039220 modifiers=0 code=25 char=ffff false true
+--------------- 333 --------------
+  Sun Dec 14 15:13:59 EET 2025
+ProcessKeyBinding 402 when=1765718039342 modifiers=0 code=25 char=ffff false true
+--------------- 334 --------------
+  Sun Dec 14 15:13:59 EET 2025
+ProcessKeyBinding 402 when=1765718039543 modifiers=0 code=25 char=ffff false true
+--------------- 335 --------------
+  Sun Dec 14 15:13:59 EET 2025
+ProcessKeyBinding 402 when=1765718039690 modifiers=0 code=25 char=ffff false true
+--------------- 336 --------------
+  Sun Dec 14 15:13:59 EET 2025
+ProcessKeyBinding 402 when=1765718039791 modifiers=0 code=25 char=ffff false true
+--------------- 337 --------------
+  Sun Dec 14 15:13:59 EET 2025
+ProcessKeyBinding 402 when=1765718039907 modifiers=0 code=25 char=ffff false true
+--------------- 338 --------------
+  Sun Dec 14 15:14:00 EET 2025
+ProcessKeyBinding 402 when=1765718040246 modifiers=0 code=25 char=ffff false true
+--------------- 339 --------------
+  Sun Dec 14 15:14:00 EET 2025
+ProcessKeyBinding 402 when=1765718040547 modifiers=0 code=8 char=8 false true
+--------------- 340 --------------
+  Sun Dec 14 15:14:00 EET 2025
+ProcessKeyBinding 402 when=1765718040695 modifiers=0 code=8 char=8 false true
+--------------- 341 --------------
+  Sun Dec 14 15:14:00 EET 2025
+ProcessKeyBinding 402 when=1765718040833 modifiers=0 code=8 char=8 false true
+--------------- 342 --------------
+  Sun Dec 14 15:14:00 EET 2025
+ProcessKeyBinding 402 when=1765718040964 modifiers=0 code=8 char=8 false true
+--------------- 343 --------------
+  Sun Dec 14 15:14:01 EET 2025
+ProcessKeyBinding 402 when=1765718041096 modifiers=0 code=8 char=8 false true
+--------------- 344 --------------
+  Sun Dec 14 15:14:01 EET 2025
+ProcessKeyBinding 402 when=1765718041266 modifiers=0 code=8 char=8 false true
+--------------- 345 --------------
+  Sun Dec 14 15:14:01 EET 2025
+ProcessKeyBinding 402 when=1765718041366 modifiers=0 code=8 char=8 false true
+--------------- 346 --------------
+  Sun Dec 14 15:14:01 EET 2025
+ProcessKeyBinding 402 when=1765718041466 modifiers=0 code=8 char=8 false true
+--------------- 347 --------------
+  Sun Dec 14 15:14:01 EET 2025
+ProcessKeyBinding 402 when=1765718041567 modifiers=0 code=8 char=8 false true
+--------------- 348 --------------
+  Sun Dec 14 15:14:01 EET 2025
+ProcessKeyBinding 402 when=1765718041667 modifiers=0 code=8 char=8 false true
+--------------- 349 --------------
+  Sun Dec 14 15:14:01 EET 2025
+ProcessKeyBinding 402 when=1765718041783 modifiers=0 code=8 char=8 false true
+--------------- 350 --------------
+  Sun Dec 14 15:14:01 EET 2025
+ProcessKeyBinding 402 when=1765718041900 modifiers=0 code=8 char=8 false true
+--------------- 351 --------------
+  Sun Dec 14 15:14:01 EET 2025
+ProcessKeyBinding 402 when=1765718041985 modifiers=0 code=8 char=8 false true
+--------------- 352 --------------
+  Sun Dec 14 15:14:02 EET 2025
+ProcessKeyBinding 402 when=1765718042101 modifiers=0 code=8 char=8 false true
+--------------- 353 --------------
+  Sun Dec 14 15:14:03 EET 2025
+ProcessKeyBinding 402 when=1765718043322 modifiers=0 code=27 char=ffff false true
+--------------- 354 --------------
+  Sun Dec 14 15:14:03 EET 2025
+ProcessKeyBinding 401 when=1765718043507 modifiers=200 code=12 char=ffff false true
+--------------- 355 --------------
+  Sun Dec 14 15:14:05 EET 2025
+ProcessKeyBinding 402 when=1765718045443 modifiers=0 code=27 char=ffff false true
+--------------- 356 --------------
+  Sun Dec 14 15:14:05 EET 2025
+ProcessKeyBinding 401 when=1765718045744 modifiers=200 code=12 char=ffff false true
+--------------- 357 --------------
+  Sun Dec 14 15:14:08 EET 2025
+ProcessKeyBinding 402 when=1765718048080 modifiers=0 code=a char=a false true
+--------------- 358 --------------
+  Sun Dec 14 15:14:08 EET 2025
+ProcessKeyBinding 402 when=1765718048884 modifiers=0 code=8 char=8 false true
+--------------- 359 --------------
+  Sun Dec 14 15:14:53 EET 2025
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+Currently highlighted: 
+    SPICE code
+--------------- 360 --------------
+  Sun Dec 14 15:15:02 EET 2025
+ProcessKeyBinding 401 when=1765718102868 modifiers=200 code=12 char=ffff false false
+--------------- 361 --------------
+  Sun Dec 14 15:15:07 EET 2025
+ProcessKeyBinding 401 when=1765718107327 modifiers=200 code=12 char=ffff false false
+--------------- 362 --------------
+  Sun Dec 14 15:15:09 EET 2025
+ProcessKeyBinding 401 when=1765718109921 modifiers=200 code=12 char=ffff false false
+--------------- 363 --------------
+  Sun Dec 14 15:15:13 EET 2025
+ProcessKeyBinding 401 when=1765718113515 modifiers=200 code=12 char=ffff false false
+--------------- 364 --------------
+  Sun Dec 14 15:15:19 EET 2025
+ProcessKeyBinding 401 when=1765718119996 modifiers=200 code=12 char=ffff false false
+--------------- 365 --------------
+  Sun Dec 14 15:15:24 EET 2025
+ProcessKeyBinding 401 when=1765718124225 modifiers=200 code=12 char=ffff false false
+--------------- 366 --------------
+  Sun Dec 14 15:15:31 EET 2025
+ProcessKeyBinding 401 when=1765718131110 modifiers=200 code=12 char=ffff false true
+--------------- 367 --------------
+  Sun Dec 14 15:15:36 EET 2025
+ProcessKeyBinding 401 when=1765718136249 modifiers=200 code=12 char=ffff false true
+--------------- 368 --------------
+  Sun Dec 14 15:15:40 EET 2025
+ProcessKeyBinding 401 when=1765718140535 modifiers=200 code=12 char=ffff false true
+--------------- 369 --------------
+  Sun Dec 14 15:15:46 EET 2025
+ProcessKeyBinding 401 when=1765718146256 modifiers=200 code=12 char=ffff false true
+--------------- 370 --------------
+  Sun Dec 14 15:15:49 EET 2025
+ProcessKeyBinding 401 when=1765718149568 modifiers=200 code=12 char=ffff false true
+--------------- 371 --------------
+  Sun Dec 14 15:15:51 EET 2025
+ProcessKeyBinding 401 when=1765718151674 modifiers=200 code=12 char=ffff false true
+--------------- 372 --------------
+  Sun Dec 14 15:15:55 EET 2025
+ProcessKeyBinding 401 when=1765718155419 modifiers=200 code=12 char=ffff false true
+--------------- 373 --------------
+  Sun Dec 14 15:15:58 EET 2025
+ProcessKeyBinding 401 when=1765718158949 modifiers=200 code=12 char=ffff false true
+--------------- 374 --------------
+  Sun Dec 14 15:16:04 EET 2025
+ProcessKeyBinding 401 when=1765718164211 modifiers=200 code=12 char=ffff false true
+--------------- 375 --------------
+  Sun Dec 14 15:16:08 EET 2025
+ProcessKeyBinding 401 when=1765718168512 modifiers=200 code=12 char=ffff false true
+--------------- 376 --------------
+  Sun Dec 14 15:16:18 EET 2025
+ProcessKeyBinding 402 when=1765718178303 modifiers=0 code=25 char=ffff false true
+--------------- 377 --------------
+  Sun Dec 14 15:16:18 EET 2025
+ProcessKeyBinding 402 when=1765718178589 modifiers=0 code=8 char=8 false true
+--------------- 378 --------------
+  Sun Dec 14 15:16:20 EET 2025
+ProcessKeyBinding 401 when=1765718180839 modifiers=0 code=3d char=3d(=) false true
+--------------- 379 --------------
+  Sun Dec 14 15:16:20 EET 2025
+ProcessKeyBinding 402 when=1765718180955 modifiers=0 code=3d char=3d(=) false true
+--------------- 380 --------------
+  Sun Dec 14 15:16:22 EET 2025
+ProcessKeyBinding 402 when=1765718182347 modifiers=0 code=27 char=ffff false true
+--------------- 381 --------------
+  Sun Dec 14 15:16:30 EET 2025
+ProcessKeyBinding 401 when=1765718190968 modifiers=200 code=12 char=ffff false true
+--------------- 382 --------------
+  Sun Dec 14 15:16:38 EET 2025
+ProcessKeyBinding 401 when=1765718198279 modifiers=200 code=12 char=ffff false true
+--------------- 383 --------------
+  Sun Dec 14 15:16:42 EET 2025
+ProcessKeyBinding 402 when=1765718202347 modifiers=0 code=a char=a false true
+--------------- 384 --------------
+  Sun Dec 14 15:16:43 EET 2025
+ProcessKeyBinding 401 when=1765718203098 modifiers=0 code=2e char=2e(.) false true
+--------------- 385 --------------
+  Sun Dec 14 15:16:43 EET 2025
+ProcessKeyBinding 402 when=1765718203166 modifiers=0 code=2e char=2e(.) false true
+--------------- 386 --------------
+  Sun Dec 14 15:16:43 EET 2025
+ProcessKeyBinding 401 when=1765718203368 modifiers=0 code=54 char=74(t) false true
+--------------- 387 --------------
+  Sun Dec 14 15:16:43 EET 2025
+ProcessKeyBinding 402 when=1765718203430 modifiers=0 code=54 char=74(t) false true
+--------------- 388 --------------
+  Sun Dec 14 15:16:43 EET 2025
+ProcessKeyBinding 401 when=1765718203537 modifiers=0 code=52 char=72(r) false true
+--------------- 389 --------------
+  Sun Dec 14 15:16:43 EET 2025
+ProcessKeyBinding 401 when=1765718203615 modifiers=0 code=41 char=61(a) false true
+--------------- 390 --------------
+  Sun Dec 14 15:16:43 EET 2025
+ProcessKeyBinding 402 when=1765718203630 modifiers=0 code=52 char=72(r) false true
+--------------- 391 --------------
+  Sun Dec 14 15:16:43 EET 2025
+ProcessKeyBinding 402 when=1765718203684 modifiers=0 code=41 char=61(a) false true
+--------------- 392 --------------
+  Sun Dec 14 15:16:43 EET 2025
+ProcessKeyBinding 401 when=1765718203917 modifiers=0 code=4e char=6e(n) false true
+--------------- 393 --------------
+  Sun Dec 14 15:16:44 EET 2025
+ProcessKeyBinding 402 when=1765718204033 modifiers=0 code=4e char=6e(n) false true
+--------------- 394 --------------
+  Sun Dec 14 15:16:44 EET 2025
+ProcessKeyBinding 401 when=1765718204156 modifiers=200 code=12 char=ffff false true
+--------------- 395 --------------
+  Sun Dec 14 15:16:45 EET 2025
+ProcessKeyBinding 401 when=1765718205576 modifiers=0 code=30 char=30(0) false true
+--------------- 396 --------------
+  Sun Dec 14 15:16:45 EET 2025
+ProcessKeyBinding 402 when=1765718205638 modifiers=0 code=30 char=30(0) false true
+--------------- 397 --------------
+  Sun Dec 14 15:16:45 EET 2025
+ProcessKeyBinding 401 when=1765718205708 modifiers=0 code=30 char=30(0) false true
+--------------- 398 --------------
+  Sun Dec 14 15:16:45 EET 2025
+ProcessKeyBinding 402 when=1765718205774 modifiers=0 code=30 char=30(0) false true
+--------------- 399 --------------
+  Sun Dec 14 15:16:46 EET 2025
+ProcessKeyBinding 401 when=1765718206094 modifiers=0 code=3d char=3d(=) false true
+--------------- 400 --------------
+  Sun Dec 14 15:16:46 EET 2025
+ProcessKeyBinding 402 when=1765718206163 modifiers=0 code=3d char=3d(=) false true
+--------------- 401 --------------
+  Sun Dec 14 15:16:46 EET 2025
+ProcessKeyBinding 402 when=1765718206364 modifiers=0 code=8 char=8 false true
+--------------- 402 --------------
+  Sun Dec 14 15:16:46 EET 2025
+ProcessKeyBinding 402 when=1765718206496 modifiers=0 code=8 char=8 false true
+--------------- 403 --------------
+  Sun Dec 14 15:16:46 EET 2025
+ProcessKeyBinding 402 when=1765718206628 modifiers=0 code=8 char=8 false true
+--------------- 404 --------------
+  Sun Dec 14 15:16:46 EET 2025
+ProcessKeyBinding 401 when=1765718206666 modifiers=0 code=20 char=20 false true
+--------------- 405 --------------
+  Sun Dec 14 15:16:46 EET 2025
+ProcessKeyBinding 402 when=1765718206750 modifiers=0 code=20 char=20 false true
+--------------- 406 --------------
+  Sun Dec 14 15:16:46 EET 2025
+ProcessKeyBinding 401 when=1765718206782 modifiers=0 code=30 char=30(0) false true
+--------------- 407 --------------
+  Sun Dec 14 15:16:46 EET 2025
+ProcessKeyBinding 402 when=1765718206867 modifiers=0 code=30 char=30(0) false true
+--------------- 408 --------------
+  Sun Dec 14 15:16:46 EET 2025
+ProcessKeyBinding 401 when=1765718206883 modifiers=0 code=20 char=20 false true
+--------------- 409 --------------
+  Sun Dec 14 15:16:46 EET 2025
+ProcessKeyBinding 402 when=1765718206945 modifiers=0 code=20 char=20 false true
+--------------- 410 --------------
+  Sun Dec 14 15:16:47 EET 2025
+ProcessKeyBinding 401 when=1765718207030 modifiers=0 code=20 char=20 false true
+--------------- 411 --------------
+  Sun Dec 14 15:16:47 EET 2025
+ProcessKeyBinding 402 when=1765718207083 modifiers=0 code=20 char=20 false true
+--------------- 412 --------------
+  Sun Dec 14 15:16:47 EET 2025
+ProcessKeyBinding 401 when=1765718207083 modifiers=0 code=30 char=30(0) false true
+--------------- 413 --------------
+  Sun Dec 14 15:16:47 EET 2025
+ProcessKeyBinding 402 when=1765718207168 modifiers=0 code=30 char=30(0) false true
+--------------- 414 --------------
+  Sun Dec 14 15:16:47 EET 2025
+ProcessKeyBinding 402 when=1765718207432 modifiers=0 code=8 char=8 false true
+--------------- 415 --------------
+  Sun Dec 14 15:16:47 EET 2025
+ProcessKeyBinding 402 when=1765718207571 modifiers=0 code=8 char=8 false true
+--------------- 416 --------------
+  Sun Dec 14 15:16:47 EET 2025
+ProcessKeyBinding 401 when=1765718207772 modifiers=0 code=20 char=20 false true
+--------------- 417 --------------
+  Sun Dec 14 15:16:47 EET 2025
+ProcessKeyBinding 402 when=1765718207856 modifiers=0 code=20 char=20 false true
+--------------- 418 --------------
+  Sun Dec 14 15:16:47 EET 2025
+ProcessKeyBinding 401 when=1765718207888 modifiers=0 code=30 char=30(0) false true
+--------------- 419 --------------
+  Sun Dec 14 15:16:47 EET 2025
+ProcessKeyBinding 402 when=1765718207950 modifiers=0 code=30 char=30(0) false true
+--------------- 420 --------------
+  Sun Dec 14 15:16:48 EET 2025
+ProcessKeyBinding 402 when=1765718208337 modifiers=0 code=8 char=8 false true
+--------------- 421 --------------
+  Sun Dec 14 15:16:48 EET 2025
+ProcessKeyBinding 402 when=1765718208491 modifiers=0 code=8 char=8 false true
+--------------- 422 --------------
+  Sun Dec 14 15:16:48 EET 2025
+ProcessKeyBinding 401 when=1765718208607 modifiers=0 code=30 char=30(0) false true
+--------------- 423 --------------
+  Sun Dec 14 15:16:48 EET 2025
+ProcessKeyBinding 401 when=1765718208676 modifiers=0 code=20 char=20 false true
+--------------- 424 --------------
+  Sun Dec 14 15:16:48 EET 2025
+ProcessKeyBinding 402 when=1765718208692 modifiers=0 code=30 char=30(0) false true
+--------------- 425 --------------
+  Sun Dec 14 15:16:48 EET 2025
+ProcessKeyBinding 402 when=1765718208739 modifiers=0 code=20 char=20 false true
+--------------- 426 --------------
+  Sun Dec 14 15:16:48 EET 2025
+ProcessKeyBinding 401 when=1765718208878 modifiers=200 code=12 char=ffff false true
+--------------- 427 --------------
+  Sun Dec 14 15:17:02 EET 2025
+ProcessKeyBinding 402 when=1765718222337 modifiers=0 code=8 char=8 false true
+--------------- 428 --------------
+  Sun Dec 14 15:17:02 EET 2025
+ProcessKeyBinding 401 when=1765718222856 modifiers=0 code=2e char=2e(.) false true
+--------------- 429 --------------
+  Sun Dec 14 15:17:02 EET 2025
+ProcessKeyBinding 401 when=1765718222910 modifiers=0 code=31 char=31(1) false true
+--------------- 430 --------------
+  Sun Dec 14 15:17:02 EET 2025
+ProcessKeyBinding 402 when=1765718222925 modifiers=0 code=2e char=2e(.) false true
+--------------- 431 --------------
+  Sun Dec 14 15:17:02 EET 2025
+ProcessKeyBinding 402 when=1765718222956 modifiers=0 code=31 char=31(1) false true
+--------------- 432 --------------
+  Sun Dec 14 15:17:03 EET 2025
+ProcessKeyBinding 401 when=1765718223359 modifiers=0 code=55 char=75(u) false true
+--------------- 433 --------------
+  Sun Dec 14 15:17:03 EET 2025
+ProcessKeyBinding 402 when=1765718223429 modifiers=0 code=55 char=75(u) false true
+--------------- 434 --------------
+  Sun Dec 14 15:17:03 EET 2025
+ProcessKeyBinding 401 when=1765718223429 modifiers=0 code=53 char=73(s) false true
+--------------- 435 --------------
+  Sun Dec 14 15:17:03 EET 2025
+ProcessKeyBinding 402 when=1765718223475 modifiers=0 code=53 char=73(s) false true
+--------------- 436 --------------
+  Sun Dec 14 15:17:04 EET 2025
+ProcessKeyBinding 401 when=1765718224133 modifiers=200 code=12 char=ffff false true
+--------------- 437 --------------
+  Sun Dec 14 15:17:07 EET 2025
+ProcessKeyBinding 401 when=1765718227279 modifiers=200 code=12 char=ffff false true
+--------------- 438 --------------
+  Sun Dec 14 15:17:16 EET 2025
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+Currently highlighted: 
+    SPICE code
+--------------- 439 --------------
+  Sun Dec 14 15:17:19 EET 2025
+ProcessKeyBinding 401 when=1765718239480 modifiers=200 code=12 char=ffff false false
+--------------- 440 --------------
+  Sun Dec 14 15:17:36 EET 2025
+ProcessKeyBinding 401 when=1765718256069 modifiers=200 code=12 char=ffff false false
+--------------- 441 --------------
+  Sun Dec 14 15:17:54 EET 2025
+ProcessKeyBinding 401 when=1765718274719 modifiers=40 code=10 char=ffff false true
+--------------- 442 --------------
+  Sun Dec 14 15:17:54 EET 2025
+ProcessKeyBinding 401 when=1765718274810 modifiers=40 code=59 char=59(Y) false true
+--------------- 443 --------------
+  Sun Dec 14 15:17:54 EET 2025
+ProcessKeyBinding 402 when=1765718274879 modifiers=40 code=59 char=59(Y) false true
+--------------- 444 --------------
+  Sun Dec 14 15:17:55 EET 2025
+ProcessKeyBinding 402 when=1765718275020 modifiers=0 code=10 char=ffff false true
+--------------- 445 --------------
+  Sun Dec 14 15:17:55 EET 2025
+ProcessKeyBinding 402 when=1765718275440 modifiers=0 code=a char=a false false
+--------------- 446 --------------
+  Sun Dec 14 15:18:05 EET 2025
+ProcessKeyBinding 402 when=1765718285655 modifiers=0 code=27 char=ffff false true
+--------------- 447 --------------
+  Sun Dec 14 15:18:05 EET 2025
+ProcessKeyBinding 402 when=1765718285808 modifiers=0 code=27 char=ffff false true
+--------------- 448 --------------
+  Sun Dec 14 15:18:06 EET 2025
+ProcessKeyBinding 402 when=1765718286188 modifiers=0 code=8 char=8 false true
+--------------- 449 --------------
+  Sun Dec 14 15:18:06 EET 2025
+ProcessKeyBinding 402 when=1765718286327 modifiers=0 code=8 char=8 false true
+--------------- 450 --------------
+  Sun Dec 14 15:18:06 EET 2025
+ProcessKeyBinding 401 when=1765718286659 modifiers=40 code=10 char=ffff false true
+--------------- 451 --------------
+  Sun Dec 14 15:18:07 EET 2025
+ProcessKeyBinding 401 when=1765718287108 modifiers=40 code=59 char=59(Y) false true
+--------------- 452 --------------
+  Sun Dec 14 15:18:07 EET 2025
+ProcessKeyBinding 402 when=1765718287215 modifiers=40 code=59 char=59(Y) false true
+--------------- 453 --------------
+  Sun Dec 14 15:18:07 EET 2025
+ProcessKeyBinding 402 when=1765718287293 modifiers=0 code=10 char=ffff false true
+--------------- 454 --------------
+  Sun Dec 14 15:18:09 EET 2025
+ProcessKeyBinding 402 when=1765718289802 modifiers=0 code=8 char=8 false true
+--------------- 455 --------------
+  Sun Dec 14 15:18:10 EET 2025
+ProcessKeyBinding 402 when=1765718290305 modifiers=0 code=27 char=ffff false true
+--------------- 456 --------------
+  Sun Dec 14 15:18:10 EET 2025
+ProcessKeyBinding 402 when=1765718290560 modifiers=0 code=8 char=8 false true
+--------------- 457 --------------
+  Sun Dec 14 15:18:10 EET 2025
+ProcessKeyBinding 401 when=1765718290776 modifiers=40 code=10 char=ffff false true
+--------------- 458 --------------
+  Sun Dec 14 15:18:10 EET 2025
+ProcessKeyBinding 401 when=1765718290823 modifiers=40 code=59 char=59(Y) false true
+--------------- 459 --------------
+  Sun Dec 14 15:18:10 EET 2025
+ProcessKeyBinding 402 when=1765718290876 modifiers=40 code=59 char=59(Y) false true
+--------------- 460 --------------
+  Sun Dec 14 15:18:10 EET 2025
+ProcessKeyBinding 402 when=1765718290961 modifiers=0 code=10 char=ffff false true
+--------------- 461 --------------
+  Sun Dec 14 15:18:12 EET 2025
+ProcessKeyBinding 402 when=1765718292515 modifiers=0 code=25 char=ffff false true
+--------------- 462 --------------
+  Sun Dec 14 15:18:12 EET 2025
+ProcessKeyBinding 402 when=1765718292716 modifiers=0 code=8 char=8 false true
+--------------- 463 --------------
+  Sun Dec 14 15:18:12 EET 2025
+ProcessKeyBinding 402 when=1765718292839 modifiers=0 code=8 char=8 false true
+--------------- 464 --------------
+  Sun Dec 14 15:18:13 EET 2025
+ProcessKeyBinding 401 when=1765718293017 modifiers=40 code=10 char=ffff false true
+--------------- 465 --------------
+  Sun Dec 14 15:18:13 EET 2025
+ProcessKeyBinding 401 when=1765718293102 modifiers=40 code=59 char=59(Y) false true
+--------------- 466 --------------
+  Sun Dec 14 15:18:13 EET 2025
+ProcessKeyBinding 402 when=1765718293187 modifiers=40 code=59 char=59(Y) false true
+--------------- 467 --------------
+  Sun Dec 14 15:18:13 EET 2025
+ProcessKeyBinding 402 when=1765718293240 modifiers=0 code=10 char=ffff false true
+--------------- 468 --------------
+  Sun Dec 14 15:18:15 EET 2025
+ProcessKeyBinding 402 when=1765718295047 modifiers=0 code=8 char=8 false true
+--------------- 469 --------------
+  Sun Dec 14 15:18:15 EET 2025
+ProcessKeyBinding 402 when=1765718295178 modifiers=0 code=8 char=8 false true
+--------------- 470 --------------
+  Sun Dec 14 15:18:15 EET 2025
+ProcessKeyBinding 401 when=1765718295380 modifiers=40 code=10 char=ffff false true
+--------------- 471 --------------
+  Sun Dec 14 15:18:15 EET 2025
+ProcessKeyBinding 401 when=1765718295427 modifiers=40 code=59 char=59(Y) false true
+--------------- 472 --------------
+  Sun Dec 14 15:18:15 EET 2025
+ProcessKeyBinding 402 when=1765718295511 modifiers=40 code=59 char=59(Y) false true
+--------------- 473 --------------
+  Sun Dec 14 15:18:15 EET 2025
+ProcessKeyBinding 402 when=1765718295548 modifiers=0 code=10 char=ffff false true
+--------------- 474 --------------
+  Sun Dec 14 15:18:17 EET 2025
+ProcessKeyBinding 402 when=1765718297634 modifiers=0 code=27 char=ffff false true
+--------------- 475 --------------
+  Sun Dec 14 15:18:17 EET 2025
+ProcessKeyBinding 402 when=1765718297904 modifiers=0 code=8 char=8 false true
+--------------- 476 --------------
+  Sun Dec 14 15:18:18 EET 2025
+ProcessKeyBinding 402 when=1765718298020 modifiers=0 code=8 char=8 false true
+--------------- 477 --------------
+  Sun Dec 14 15:18:18 EET 2025
+ProcessKeyBinding 401 when=1765718298190 modifiers=40 code=10 char=ffff false true
+--------------- 478 --------------
+  Sun Dec 14 15:18:18 EET 2025
+ProcessKeyBinding 401 when=1765718298258 modifiers=40 code=59 char=59(Y) false true
+--------------- 479 --------------
+  Sun Dec 14 15:18:18 EET 2025
+ProcessKeyBinding 402 when=1765718298337 modifiers=40 code=59 char=59(Y) false true
+--------------- 480 --------------
+  Sun Dec 14 15:18:18 EET 2025
+ProcessKeyBinding 402 when=1765718298406 modifiers=0 code=10 char=ffff false true
+--------------- 481 --------------
+  Sun Dec 14 15:18:24 EET 2025
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+Currently highlighted: 
+    SPICE code
+--------------- 482 --------------
+  Sun Dec 14 15:18:36 EET 2025
+ProcessKeyBinding 401 when=1765718316809 modifiers=80 code=11 char=ffff false false
+--------------- 483 --------------
+  Sun Dec 14 15:18:37 EET 2025
+ProcessKeyBinding 402 when=1765718317009 modifiers=0 code=11 char=ffff false false
+--------------- 484 --------------
+  Sun Dec 14 15:18:37 EET 2025
+ProcessKeyBinding 401 when=1765718317784 modifiers=80 code=11 char=ffff false false
+--------------- 485 --------------
+  Sun Dec 14 15:18:38 EET 2025
+ProcessKeyBinding 402 when=1765718318069 modifiers=0 code=11 char=ffff false false
+--------------- 486 --------------
+  Sun Dec 14 15:18:38 EET 2025
+ProcessKeyBinding 402 when=1765718318487 modifiers=0 code=a char=a false false
+--------------- 487 --------------
+  Sun Dec 14 15:18:40 EET 2025
+ProcessKeyBinding 401 when=1765718320328 modifiers=40 code=10 char=ffff false false
+--------------- 488 --------------
+  Sun Dec 14 15:18:40 EET 2025
+ProcessKeyBinding 401 when=1765718320652 modifiers=40 code=2c char=3c(<) false false
+--------------- 489 --------------
+  Sun Dec 14 15:18:40 EET 2025
+ProcessKeyBinding 402 when=1765718320800 modifiers=40 code=2c char=3c(<) false false
+--------------- 490 --------------
+  Sun Dec 14 15:18:41 EET 2025
+ProcessKeyBinding 402 when=1765718321016 modifiers=0 code=10 char=ffff false false
+--------------- 491 --------------
+  Sun Dec 14 15:18:41 EET 2025
+ProcessKeyBinding 402 when=1765718321356 modifiers=0 code=8 char=8 false false
+--------------- 492 --------------
+  Sun Dec 14 15:18:41 EET 2025
+ProcessKeyBinding 401 when=1765718321705 modifiers=40 code=10 char=ffff false false
+--------------- 493 --------------
+  Sun Dec 14 15:18:42 EET 2025
+ProcessKeyBinding 401 when=1765718322656 modifiers=40 code=2e char=3e(>) false false
+--------------- 494 --------------
+  Sun Dec 14 15:18:42 EET 2025
+ProcessKeyBinding 402 when=1765718322725 modifiers=40 code=2e char=3e(>) false false
+--------------- 495 --------------
+  Sun Dec 14 15:18:42 EET 2025
+ProcessKeyBinding 402 when=1765718322863 modifiers=0 code=10 char=ffff false false
+--------------- 496 --------------
+  Sun Dec 14 15:18:43 EET 2025
+ProcessKeyBinding 402 when=1765718323096 modifiers=0 code=a char=a false false
+--------------- 497 --------------
+  Sun Dec 14 15:18:44 EET 2025
+ProcessKeyBinding 401 when=1765718324145 modifiers=40 code=10 char=ffff false false
+--------------- 498 --------------
+  Sun Dec 14 15:18:44 EET 2025
+ProcessKeyBinding 401 when=1765718324602 modifiers=40 code=2e char=3e(>) false false
+--------------- 499 --------------
+  Sun Dec 14 15:18:44 EET 2025
+ProcessKeyBinding 402 when=1765718324671 modifiers=40 code=2e char=3e(>) false false
+--------------- 500 --------------
+  Sun Dec 14 15:18:44 EET 2025
+ProcessKeyBinding 401 when=1765718324787 modifiers=40 code=2e char=3e(>) false false
+--------------- 501 --------------
+  Sun Dec 14 15:18:44 EET 2025
+ProcessKeyBinding 402 when=1765718324850 modifiers=40 code=2e char=3e(>) false false
+--------------- 502 --------------
+  Sun Dec 14 15:18:45 EET 2025
+ProcessKeyBinding 402 when=1765718325089 modifiers=0 code=10 char=ffff false false
+--------------- 503 --------------
+  Sun Dec 14 15:18:45 EET 2025
+ProcessKeyBinding 402 when=1765718325306 modifiers=0 code=a char=a false false
+--------------- 504 --------------
+  Sun Dec 14 15:18:45 EET 2025
+ProcessKeyBinding 401 when=1765718325592 modifiers=40 code=10 char=ffff false false
+--------------- 505 --------------
+  Sun Dec 14 15:18:45 EET 2025
+ProcessKeyBinding 401 when=1765718325739 modifiers=40 code=2e char=3e(>) false false
+--------------- 506 --------------
+  Sun Dec 14 15:18:45 EET 2025
+ProcessKeyBinding 402 when=1765718325793 modifiers=40 code=2e char=3e(>) false false
+--------------- 507 --------------
+  Sun Dec 14 15:18:45 EET 2025
+ProcessKeyBinding 402 when=1765718325877 modifiers=0 code=10 char=ffff false false
+--------------- 508 --------------
+  Sun Dec 14 15:18:46 EET 2025
+ProcessKeyBinding 402 when=1765718326094 modifiers=0 code=a char=a false false
+--------------- 509 --------------
+  Sun Dec 14 15:18:46 EET 2025
+ProcessKeyBinding 402 when=1765718326999 modifiers=0 code=27 char=ffff false false
+--------------- 510 --------------
+  Sun Dec 14 15:18:47 EET 2025
+ProcessKeyBinding 402 when=1765718327285 modifiers=0 code=27 char=ffff false false
+--------------- 511 --------------
+  Sun Dec 14 15:18:47 EET 2025
+ProcessKeyBinding 401 when=1765718327586 modifiers=80 code=11 char=ffff false false
+--------------- 512 --------------
+  Sun Dec 14 15:18:47 EET 2025
+Menu Activated: Edit | Move | Move Objects More Right
+Currently highlighted: 
+    SPICE code
+--------------- 513 --------------
+  Sun Dec 14 15:18:47 EET 2025
+ProcessKeyBinding 402 when=1765718327988 modifiers=0 code=11 char=ffff false false
+--------------- 514 --------------
+  Sun Dec 14 15:18:48 EET 2025
+ProcessKeyBinding 401 when=1765718328840 modifiers=80 code=11 char=ffff false false
+--------------- 515 --------------
+  Sun Dec 14 15:18:49 EET 2025
+Menu Activated: Edit | Move | Move Objects More Right
+Currently highlighted: 
+    SPICE code
+--------------- 516 --------------
+  Sun Dec 14 15:18:49 EET 2025
+Menu Activated: Edit | Move | Move Objects More Left
+Currently highlighted: 
+    SPICE code
+--------------- 517 --------------
+  Sun Dec 14 15:18:49 EET 2025
+Menu Activated: Edit | Move | Move Objects More Left
+Currently highlighted: 
+    SPICE code
+--------------- 518 --------------
+  Sun Dec 14 15:18:50 EET 2025
+ProcessKeyBinding 402 when=1765718330062 modifiers=0 code=11 char=ffff false false
+--------------- 519 --------------
+  Sun Dec 14 15:18:51 EET 2025
+ProcessKeyBinding 401 when=1765718331153 modifiers=80 code=11 char=ffff false false
+--------------- 520 --------------
+  Sun Dec 14 15:18:51 EET 2025
+Menu Activated: Edit | Move | Move Objects More Down
+Currently highlighted: 
+    SPICE code
+--------------- 521 --------------
+  Sun Dec 14 15:18:51 EET 2025
+Menu Activated: Edit | Move | Move Objects More Up
+Currently highlighted: 
+    SPICE code
+--------------- 522 --------------
+  Sun Dec 14 15:18:52 EET 2025
+ProcessKeyBinding 402 when=1765718332204 modifiers=0 code=11 char=ffff false false
+--------------- 523 --------------
+  Sun Dec 14 15:18:58 EET 2025
+Menu Activated: View | View Control...
+--------------- 524 --------------
+  Sun Dec 14 15:19:08 EET 2025
+ProcessKeyBinding 401 when=1765718348597 modifiers=80 code=11 char=ffff false false
+--------------- 525 --------------
+  Sun Dec 14 15:19:08 EET 2025
+Menu Activated: Edit | Move | Move Objects More Right
+Currently highlighted: 
+    SPICE code
+--------------- 526 --------------
+  Sun Dec 14 15:19:09 EET 2025
+Menu Activated: Edit | Move | Move Objects More Down
+Currently highlighted: 
+    SPICE code
+--------------- 527 --------------
+  Sun Dec 14 15:19:09 EET 2025
+Menu Activated: Edit | Move | Move Objects More Right
+Currently highlighted: 
+    SPICE code
+--------------- 528 --------------
+  Sun Dec 14 15:19:09 EET 2025
+Menu Activated: Edit | Move | Move Objects More Up
+Currently highlighted: 
+    SPICE code
+--------------- 529 --------------
+  Sun Dec 14 15:19:10 EET 2025
+ProcessKeyBinding 402 when=1765718350321 modifiers=0 code=11 char=ffff false false
+--------------- 530 --------------
+  Sun Dec 14 15:19:12 EET 2025
+Menu Activated: Window | Fill Window
+--------------- 531 --------------
+  Sun Dec 14 15:19:17 EET 2025
+ProcessKeyBinding 401 when=1765718357904 modifiers=200 code=12 char=ffff false false
+--------------- 532 --------------
+  Sun Dec 14 15:19:51 EET 2025
+ProcessKeyBinding 401 when=1765718391884 modifiers=200 code=12 char=ffff false false
+--------------- 533 --------------
+  Sun Dec 14 15:19:52 EET 2025
+ProcessKeyBinding 401 when=1765718392786 modifiers=200 code=12 char=ffff false false
+--------------- 534 --------------
+  Sun Dec 14 15:20:18 EET 2025
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+--------------- 535 --------------
+  Sun Dec 14 15:20:32 EET 2025
+Menu Activated: File | Preferences...
+--------------- 536 --------------
+  Sun Dec 14 15:20:46 EET 2025
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+--------------- 537 --------------
+  Sun Dec 14 15:23:37 EET 2025
+ProcessKeyBinding 401 when=1765718617256 modifiers=80 code=11 char=ffff false false
+--------------- 538 --------------
+  Sun Dec 14 15:23:37 EET 2025
+ProcessKeyBinding 402 when=1765718617541 modifiers=0 code=11 char=ffff false false
+--------------- 539 --------------
+  Sun Dec 14 15:24:32 EET 2025
+ProcessKeyBinding 401 when=1765718672773 modifiers=200 code=12 char=ffff false true
+--------------- 540 --------------
+  Sun Dec 14 15:24:36 EET 2025
+ProcessKeyBinding 401 when=1765718676018 modifiers=200 code=12 char=ffff false true
+--------------- 541 --------------
+  Sun Dec 14 15:24:54 EET 2025
+ProcessKeyBinding 401 when=1765718694230 modifiers=200 code=12 char=ffff false true
+--------------- 542 --------------
+  Sun Dec 14 15:24:56 EET 2025
+ProcessKeyBinding 401 when=1765718696391 modifiers=200 code=12 char=ffff false true
+--------------- 543 --------------
+  Sun Dec 14 15:24:58 EET 2025
+ProcessKeyBinding 401 when=1765718698489 modifiers=200 code=12 char=ffff false true
+--------------- 544 --------------
+  Sun Dec 14 15:25:02 EET 2025
+ProcessKeyBinding 401 when=1765718702110 modifiers=200 code=12 char=ffff false true
+--------------- 545 --------------
+  Sun Dec 14 15:25:05 EET 2025
+ProcessKeyBinding 401 when=1765718705086 modifiers=200 code=12 char=ffff false true
+--------------- 546 --------------
+  Sun Dec 14 15:25:10 EET 2025
+ProcessKeyBinding 401 when=1765718710230 modifiers=200 code=12 char=ffff false true
+--------------- 547 --------------
+  Sun Dec 14 15:26:05 EET 2025
+ProcessKeyBinding 401 when=1765718765891 modifiers=80 code=11 char=ffff false false
+--------------- 548 --------------
+  Sun Dec 14 15:26:06 EET 2025
+Menu Activated: File | Save All Libraries
+Currently highlighted: 
+    SPICE code
+--------------- 549 --------------
+  Sun Dec 14 15:26:07 EET 2025
+ProcessKeyBinding 400 when=1765718766625 modifiers=80 code=0 char=13 false false
+--------------- 550 --------------
+  Sun Dec 14 15:26:10 EET 2025
+ProcessKeyBinding 401 when=1765718770522 modifiers=80 code=11 char=ffff false false
+--------------- 551 --------------
+  Sun Dec 14 15:26:10 EET 2025
+Menu Activated: File | Save All Libraries
+--------------- 552 --------------
+  Sun Dec 14 15:26:11 EET 2025
+ProcessKeyBinding 400 when=1765718770632 modifiers=80 code=0 char=13 false false
