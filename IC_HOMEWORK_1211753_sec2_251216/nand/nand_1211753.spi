@@ -1,0 +1,30 @@
+*** SPICE deck for cell nand_1211753{lay} from library nand_2_1211753
+*** Created on Mon Dec 15, 2025 00:58:02
+*** Last revised on Mon Dec 15, 2025 21:11:40
+*** Written on Mon Dec 15, 2025 21:17:00 by Electric VLSI Design System, version 9.08
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+*** TOP LEVEL CELL: nand_1211753{lay}
+Mnmos_2 0 B net_69 0 NMOS L=0.4U W=4U AS=2.8P AD=15.6P PS=5.4U PD=30.8U
+Mnmos_3 net_69 A Y 0 NMOS L=0.4U W=4U AS=4.4P AD=2.8P PS=8.4U PD=5.4U
+Mpmos_2 vdd B Y vdd PMOS L=0.4U W=6U AS=4.4P AD=15P PS=8.4U PD=28.6U
+Mpmos_3 Y A vdd vdd PMOS L=0.4U W=6U AS=15P AD=4.4P PS=28.6U PD=8.4U
+
+* Spice Code nodes in cell cell 'nand_1211753{lay}'
+VDD  VDD 0 DC 5
+VA   A   0 PWL(10n 0  20n 5   120n 5  130n 0)
+VB   B   0 PWL(10n 0  40n 0    50n 5  120n 5  130n 0)
+CLOAD Y 0 250f
+; Rise/Fall times of output Y (10%/90%)
+.measure tran tf  TRIG v(Y) VAL=4.5 FALL=1  TARG v(Y) VAL=0.5 FALL=1
+.measure tran tr  TRIG v(Y) VAL=0.5 RISE=1 TD=120n TARG v(Y) VAL=4.5 RISE=1
+; Delays at 50% (2.5V)
+; tphl: output falls caused by B rising
+.measure tran tphl TRIG v(B) VAL=2.5 RISE=1 TD=45n  TARG v(Y) VAL=2.5 FALL=1
+; tplh: output rises caused by A falling (end of overlap)
+.measure tran tplh TRIG v(A) VAL=2.5 FALL=1 TD=120n TARG v(Y) VAL=2.5 RISE=1
+.tran 0 200n
+.include "C:\ltspice\C5_models.txt"
+.end
+.END

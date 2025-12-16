@@ -1,0 +1,1 @@
+[vdd vdd 0 DC 5,vin A 0 pwl 10n 0 20n 5 50n 5 60n 0,cload Y 0 250fF,.measure tran tf trig v(Y) val=4.5 fall=1 td=8ns trag v(Y) val=0.5 fall=1,.measure tran tr trig v(Y) val=0.5 rais=1 td=50ns trag v(Y) val=4.5 rais=1,.tran 0 0.1us,,.include C:\ltspice\C5_models.txt]

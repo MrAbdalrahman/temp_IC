@@ -1,0 +1,31 @@
+Circuit: *** SPICE deck for cell nand_1211753{lay} from library nand_2_1211753
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Direct Newton iteration for .op point succeeded.
+
+tf=3.98806e-009 FROM 4.35464e-008 TO 4.75345e-008
+tr=2.84405e-009 FROM 1.22754e-007 TO 1.25598e-007
+tphl=9.34689e-010 FROM 4.5e-008 TO 4.59347e-008
+tplh=-4.76581e-010 FROM 1.25e-007 TO 1.24523e-007
+
+
+Date: Mon Dec 15 21:17:01 2025
+Total elapsed time: 0.192 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2251
+traniter = 2241
+tranpoints = 1064
+accept = 1060
+rejected = 4
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1: 300 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 636 bytes object code size  0.1/0.2/[0.1]
+

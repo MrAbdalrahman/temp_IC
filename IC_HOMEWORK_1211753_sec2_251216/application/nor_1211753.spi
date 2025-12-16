@@ -1,0 +1,30 @@
+*** SPICE deck for cell nor_1211753{sch} from library NOR_3_1211753
+*** Created on Sun Dec 14, 2025 17:09:03
+*** Last revised on Tue Dec 16, 2025 02:49:11
+*** Written on Tue Dec 16, 2025 02:49:14 by Electric VLSI Design System, version 9.08
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global 0 vdd
+
+*** TOP LEVEL CELL: NOR_3_1211753:nor_1211753{sch}
+Mnmos_0 Y A 0 0 NMOS L=0.4U W=2U
+Mnmos_1 Y B 0 0 NMOS L=0.4U W=2U
+Mnmos_2 Y C 0 0 NMOS L=0.4U W=2U
+Mpmos_0 net_13 A Y vdd PMOS L=0.4U W=18U
+Mpmos_1 net_14 B net_13 vdd PMOS L=0.4U W=18U
+Mpmos_2 vdd C net_14 vdd PMOS L=0.4U W=18U
+
+* Spice Code nodes in cell cell 'NOR_3_1211753:nor_1211753{sch}'
+VDD  VDD 0 DC 5
+VINA A 0 PWL(10n 0  20n 5  50n 5  60n 0  200n 0)
+VINB B 0 PWL(10n 0  30n 0  40n 5  70n 5  80n 0  200n 0)
+VINC C 0 PWL(10n 0  25n 0  35n 5  55n 5  65n 0  200n 0)
+CLOAD Y 0 250ff
+.measure tran tf   TRIG v(Y) VAL=4.5 FALL=1  TARG v(Y) VAL=0.5 FALL=1
+.measure tran tr   TRIG v(Y) VAL=0.5 RISE=1  TARG v(Y) VAL=4.5 RISE=1
+.measure tran tphl TRIG v(A) VAL=2.5 RISE=1  TARG v(Y) VAL=2.5 FALL=1
+.measure tran tplh TRIG v(B) VAL=2.5 FALL=1  TARG v(Y) VAL=2.5 RISE=1
+.tran 0 200n
+.include "C:\ltspice\C5_models.txt"
+.END

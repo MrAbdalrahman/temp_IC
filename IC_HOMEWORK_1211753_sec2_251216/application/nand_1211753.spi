@@ -1,0 +1,28 @@
+*** SPICE deck for cell nand_1211753{sch} from library nand_2_1211753
+*** Created on Sun Dec 14, 2025 16:27:13
+*** Last revised on Tue Dec 16, 2025 02:49:59
+*** Written on Tue Dec 16, 2025 02:50:02 by Electric VLSI Design System, version 9.08
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global 0 vdd
+
+*** TOP LEVEL CELL: nand_2_1211753:nand_1211753{sch}
+Mnmos_0 net_0 B 0 0 NMOS L=0.4U W=4U
+Mnmos_1 Y A net_0 0 NMOS L=0.4U W=4U
+Mpmos_0 vdd A Y vdd PMOS L=0.4U W=6U
+Mpmos_1 vdd B Y vdd PMOS L=0.4U W=6U
+
+* Spice Code nodes in cell cell 'nand_2_1211753:nand_1211753{sch}'
+VDD  VDD 0 DC 5
+VA   A   0 PWL(10n 0  20n 5   120n 5  130n 0)
+VB   B   0 PWL(10n 0  40n 0    50n 5  120n 5  130n 0)
+CLOAD Y 0 250ff
+.measure tran tf  TRIG v(Y) VAL=4.5 FALL=1  TARG v(Y) VAL=0.5 FALL=1
+.measure tran tr  TRIG v(Y) VAL=0.5 RISE=1 TD=120n TARG v(Y) VAL=4.5 RISE=1
+.measure tran tphl TRIG v(B) VAL=2.5 RISE=1 TD=45n  TARG v(Y) VAL=2.5 FALL=1
+.measure tran tplh TRIG v(A) VAL=2.5 FALL=1 TD=120n TARG v(Y) VAL=2.5 RISE=1
+.tran 0 200n
+.include "C:\ltspice\C5_models.txt"
+.end
+.END

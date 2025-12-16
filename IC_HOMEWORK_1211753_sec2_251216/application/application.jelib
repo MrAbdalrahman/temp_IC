@@ -1,0 +1,52 @@
+# header information:
+Happlication|9.08
+
+# Views:
+Vunknown|""
+Vicon|ic
+Vschematic|sch
+
+# External Libraries:
+
+LNOR_3_1211753|NOR_3_1211753
+
+Linverter_1211753|inverter_1211753
+
+Lnand_2_1211753|nand_2_1211753
+
+# Cell code;1{}
+Ccode;1{}||mocmos|1765846649231|1765846655962|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+Ngeneric:Invisible-Pin|pin@0||0.5|9.5|||||SIM_spice_card(D5G1;)S[VDD  vdd 0 DC 5,VA  A 0 PWL(10n 0  20n 5  50n 5  60n 0),VB  B 0 PWL(15n 0  25n 5  55n 5  65n 0),VC  C 0 PWL(30n 0  40n 5  70n 5  80n 0),CLOAD Y  0 250ff,.measure tran tf  TRIG v(Y) VAL=4.5 FALL=1 TD=8n  TARG v(Y) VAL=0.5 FALL=1,.measure tran tr  TRIG v(Y) VAL=0.5 RISE=1 TD=50n TARG v(Y) VAL=4.5 RISE=1,.measure tran tphl TRIG v(A) VAL=2.5 RISE=1          TARG v(Y) VAL=2.5 FALL=1,.measure tran tplh TRIG v(A) VAL=2.5 FALL=1          TARG v(Y) VAL=2.5 RISE=1,.tran 0.1u,".include \"C:\\ltspice\\C5_models.txt\""]
+X
+
+# Cell triple_and;1{sch}
+Ctriple_and;1{sch}||schematic|1765815305784|1765846245786|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+NGround|gnd@1||-50|-6||||
+Iinverter_1211753:inv_1211753;1{ic}|inv_1211@0||-68.5|0|||D5G4;
+Inand_2_1211753:nand_1211753;1{ic}|nand_121@0||-61.5|11.5|||D5G4;
+INOR_3_1211753:nor_1211753;1{ic}|nor_1211@0||-43.5|6.5|||D5G4;
+NWire_Pin|pin@5||-62.5|6.5||||
+NWire_Pin|pin@6||-56|8.5||||
+NWire_Pin|pin@11||-50|-4||||
+NWire_Pin|pin@12||-78|0||||
+NWire_Pin|pin@13||-74|13.5||||
+NWire_Pin|pin@14||-74|10.5||||
+NWire_Pin|pin@16||-29|6.5||||
+Ngeneric:Invisible-Pin|pin@20||-69.5|-10.5|||||SIM_spice_card(D5G1;)S[VDD  vdd 0 DC 5,VA  A 0 PWL(10n 0  20n 5  50n 5  60n 0),VB  B 0 PWL(15n 0  25n 5  55n 5  65n 0),VC  C 0 PWL(30n 0  40n 5  70n 5  80n 0),CLOAD Y  0 250ff,.measure tran tf  TRIG v(Y) VAL=4.5 FALL=1 TD=8n  TARG v(Y) VAL=0.5 FALL=1,.measure tran tr  TRIG v(Y) VAL=0.5 RISE=1 TD=50n TARG v(Y) VAL=4.5 RISE=1,.measure tran tphl TRIG v(A) VAL=2.5 RISE=1          TARG v(Y) VAL=2.5 FALL=1,.measure tran tplh TRIG v(A) VAL=2.5 FALL=1          TARG v(Y) VAL=2.5 RISE=1,.tran 0.1u,".include \"C:\\ltspice\\C5_models.txt\""]
+Awire|net@10|||2700|inv_1211@0|Y|-62.5|0|pin@5||-62.5|6.5
+Awire|net@11|||0|nor_1211@0|B|-50|6.5|pin@5||-62.5|6.5
+Awire|net@12|||900|nand_121@0|Y|-56|12|pin@6||-56|8.5
+Awire|net@13|||0|nor_1211@0|A|-50|8.5|pin@6||-56|8.5
+Awire|net@17|||900|nor_1211@0|C|-50|4.5|pin@11||-50|-4
+Awire|net@18|||1800|gnd@1||-50|-4|pin@11||-50|-4
+Awire|net@19|||0|inv_1211@0|A|-73.5|0|pin@12||-78|0
+Awire|net@20|||0|nand_121@0|A|-66.5|13.5|pin@13||-74|13.5
+Awire|net@21|||0|nand_121@0|B|-66.5|10.5|pin@14||-74|10.5
+Awire|net@23|||1800|nor_1211@0|Y|-33.5|6.5|pin@16||-29|6.5
+EA||D5G2;|pin@13||U
+EB||D5G2;|pin@14||U
+EC||D5G2;|pin@12||U
+EY||D5G2;|pin@16||U
+X
